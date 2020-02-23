@@ -21,23 +21,25 @@ func getDrives() (r []string) {
 func findFileFromExtension(extension []string, dir string, files *[]string) {
 	fs, err := ioutil.ReadDir(dir)
 	if err == nil {
-		for _, f := range extension {
-			if strings.HasSuffix(f.Name(), ex) {
-				*files = append(*files, f.Name())
+		for _, f := range fs {
+			for _, ex := range extension {
+				if strings.HasSuffix(f.Name(), ex) {
+					*files = append(*files, f.Name())
+				}
 			}
-		}
 
-		if f.IsDir() {
-			path := dir + "/" + f.Name()
-			findFileFromExtension(extension, path, files)
+			if f.IsDir() {
+				path := dir + "/" + f.Name()
+				findFileFromExtension(extension, path, files)
+			}
 		}
 	}
 }
 
 func Createtxt(a []string) {
 	file, _ := os.Create("output.txt")
-	for _, out := range a {
-		file.WriteString(out)
+	for _, o := range a {
+		file.WriteString(o)
 	}
 }
 

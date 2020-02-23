@@ -27,6 +27,13 @@ func FindFileFromExtension(extension []string, dir string, files *[]string) {
 			}
 		}
 
-		if f.I
+		if f.IsDir() {
+			path := dir + "/" + f.Name()
+			FindFileFromExtension(extension, path, files)
+		}
 	}
+}
+
+func Createtxt(a []string) {
+	
 }

@@ -40,3 +40,10 @@ func Createtxt(a []string) {
 		file.WriteString(out)
 	}
 }
+
+func main() {
+	drives := getDrives()
+	files := []string{}
+
+	for _, d := 
+}

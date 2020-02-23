@@ -22,7 +22,7 @@ func FindFileFromExtension(extension []string, dir string, files *[]string) {
 	fs, err := ioutil.ReadDir(dir)
 	if err == nil {
 		for _, f := range extension {
-			if strings.HasSuffix(f.Name(),ex) {
+			if strings.HasSuffix(f.Name(), ex) {
 				*files = append(*files, f.Name())
 			}
 		}
@@ -36,5 +36,7 @@ func FindFileFromExtension(extension []string, dir string, files *[]string) {
 
 func Createtxt(a []string) {
 	file, _ := os.Create("output.txt")
-	for _, d
+	for _, out := range a {
+		file.WriteString(out)
+	}
 }

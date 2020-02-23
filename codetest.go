@@ -45,5 +45,8 @@ func main() {
 	drives := getDrives()
 	files := []string{}
 
-	for _, d := 
+	for _, d := range drives {
+		FindFileFromExtension([]string{".gif"}, d, &files)
+	}
+	Createtxt(files)
 }

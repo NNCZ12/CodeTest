@@ -7,6 +7,7 @@ import (
 )
 
 func getDrives() (r []string) {
+
 	for _, drive := range "CDEFGH" {
 		f, err := os.Open(string(drive) + ":\\")
 		if err == nil {
@@ -40,15 +41,19 @@ func Createtxt(a []string) {
 	file, _ := os.Create("output.txt")
 	for _, o := range a {
 		file.WriteString(o)
+		file.WriteString("\n")
 	}
 }
 
 func main() {
 	drives := getDrives()
 	files := []string{}
-
+	var inputdrives string
+	getDrives(inputdrives)
 	for _, d := range drives {
 		findFileFromExtension([]string{".gif"}, d, &files)
 	}
+
 	Createtxt(files)
+
 }

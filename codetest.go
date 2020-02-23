@@ -1,13 +1,13 @@
 package main
 
 import (
+	"fmt"
 	"io/ioutil"
 	"os"
 	"strings"
 )
 
-func getDrives() (r []string) {
-	drive := "C"
+func getDrives(drive string) (r []string) {
 	f, err := os.Open(string(drive) + ":\\")
 	if err == nil {
 		d := string(drive) + ":/"
@@ -44,13 +44,13 @@ func Createtxt(a []string) {
 }
 
 func main() {
-	drives := getDrives()
+	var inputdrives string
+	fmt.Print("Input Your Drives : ")
+	fmt.Scan(&inputdrives)
+	drives := getDrives(inputdrives)
 	files := []string{}
-	//var inputdrives string
-	//fmt.Scan(&inputdrives)
-	//getDrives(inputdrives)
 	for _, d := range drives {
-		findFileFromExtension([]string{".gif"}, d, &files)
+		findFileFromExtension([]string{".jpg"}, d, &files)
 	}
 
 	Createtxt(files)

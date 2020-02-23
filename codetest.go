@@ -7,5 +7,10 @@ import (
 )
 
 func getDrives() (r []string) {
-	for _, drive :=
+	for _, drive := range "CDEFGH" {
+		f, err := os.Open(string(drive) + ":\\")
+		if err == nil {
+			
+		}
+	}
 }

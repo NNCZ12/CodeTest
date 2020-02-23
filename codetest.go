@@ -18,7 +18,7 @@ func getDrives() (r []string) {
 	return
 }
 
-func FindFileFromExtension(extension []string, dir string, files *[]string) {
+func findFileFromExtension(extension []string, dir string, files *[]string) {
 	fs, err := ioutil.ReadDir(dir)
 	if err == nil {
 		for _, f := range extension {
@@ -29,7 +29,7 @@ func FindFileFromExtension(extension []string, dir string, files *[]string) {
 
 		if f.IsDir() {
 			path := dir + "/" + f.Name()
-			FindFileFromExtension(extension, path, files)
+			findFileFromExtension(extension, path, files)
 		}
 	}
 }
@@ -46,7 +46,7 @@ func main() {
 	files := []string{}
 
 	for _, d := range drives {
-		FindFileFromExtension([]string{".gif"}, d, &files)
+		findFileFromExtension([]string{".gif"}, d, &files)
 	}
 	Createtxt(files)
 }

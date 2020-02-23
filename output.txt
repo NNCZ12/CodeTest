@@ -1,1374 +1,1378 @@
-appenginelogo.gif
-triangle-001.gif
-video-001.5bpp.gif
-video-001.gif
-video-001.interlaced.gif
-video-005.gray.gif
-logo.gif
-logo.gif
-logo.gif
-logo.gif
-logo.gif
-logo.gif
-logo.gif
-logo.gif
-logo.gif
-logo.gif
-logo.gif
-logo.gif
-logo.gif
-logo.gif
-logo.gif
-dot-gray.gif
-function_01.gif
-left-bk.gif
-menu-bk-00.gif
-menu-bk-01.gif
-menu-bk-02.gif
-menu-white.gif
-menu_arrow_dn.gif
-menu_arrow_sm.gif
-orange-light.gif
-orange-light2.gif
-sub-dot-gray.gif
-top-bk0.gif
-top-name.gif
-transparent.gif
-wait_16.gif
-wait_32.gif
-close.gif
-lupe.gif
-qt.gif
-subgroup.gif
-subgroup.gif
-dots-dark.gif
-dots.gif
-radial-dark.gif
-radial.gif
-100X100.gif
-100X125.gif
-115X115.gif
-1200X400.gif
-140X140.gif
-16a085.gif
-1920x500.gif
-200x200.gif
-300X200.gif
-32X32.gif
-35X35.gif
-3b536b.gif
-400X200.gif
-400x400.gif
-40X40.gif
-600X300.gif
-64X64.gif
-72X72.gif
-75X.gif
-9b59b6.gif
-120x120.gif
-576x250.gif
-300x250.gif
-wait_16.gif
-wait_32.gif
-dots-dark.gif
-dots.gif
-radial-dark.gif
-radial.gif
-FrameArrow.gif
-allowPermission.gif
-askPermission.gif
-denyPermission.gif
-key.gif
-key_D.gif
-layoutViewIntroStandard.gif
-objArrow.gif
-blank.gif
-loading.gif
-mdw.gif
-spacer.gif
-cc-spinner.gif
-loading_bar.gif
-cc-spinner.gif
-files-item-spinner.gif
-files-item-spinner.gif
-cc-spinner.gif
-files-item-spinner.gif
-IAM-ccl-color.gif
-IAM-ccl-image.gif
-IAM-dom.gif
-edit.gif
-IAM-emmet.gif
-1.gif
-gitonboarding.gif
-IAM-multicursor.gif
-IAM-liveview.gif
-IAM-quick-edit.gif
-IAM-relatedfilesbar.gif
-IAM-snippets.gif
-IAM-dom.gif
-IAM-liveview.gif
-IAM-quick-edit.gif
-IAM-relatedfilesbar.gif
-IAM-quick-edit.gif
-IAM-liveview.gif
-IAM-snippets.gif
-OB-gitonboarding.gif
-code-hint.gif
-livePreview.gif
-preprocessor.gif
-quick-edit.gif
-CFT_PI.gif
-IR_PI.gif
-input_button.gif
-input_checkbox.gif
-input_datefield.gif
-input_file.gif
-input_hidden.gif
-input_image.gif
-input_radiobutton.gif
-tagDialog.gif
-JSPS_PI.gif
-LPI_PIT.gif
-SNRV_PI.gif
-SPI_PIT.gif
-TRANS.gif
-UR_PI.gif
-button.gif
-checkbox.gif
-checkboxlist.gif
-comment.gif
-datagrid.gif
-datalist.gif
-dropDownList.gif
-grayPixel.gif
-imagebutton.gif
-listbox.gif
-radiobutton.gif
-radiobuttonlist.gif
-tagDialog.gif
-template_expr.gif
-transparentPixel.gif
-video.gif
-ASPElse.gif
-ASPElseIf.gif
-ASPEnd.gif
-ASPIf.gif
-ASPInclude.gif
-ASPOutput.gif
-ASPResponseWrite.gif
-ASPServerCreateObj.gif
-ASPTag.gif
-TrimFormEl.gif
-TrimQueryStr.gif
-CFPageEncoding.gif
-Cfapplication.gif
-Cfchart.gif
-Cfcontent.gif
-Cfcookie.gif
-Cfdirectory.gif
-Cferror.gif
-Cffile.gif
-Cfftp.gif
-Cfheader.gif
-Cfhttp.gif
-Cfhttpparam.gif
-Cfindex.gif
-Cfldap.gif
-Cfmail.gif
-Cfmodule.gif
-Cfobject.gif
-Cfpop.gif
-Cfsearch.gif
-cfimport.gif
-Cfcomment.gif
-Cfinclude.gif
-Cfinsert.gif
-Cflocation.gif
-Cfoutput.gif
-Cfparam.gif
-Cfquery.gif
-Cfscript.gif
-Cfset.gif
-Cfupdate.gif
-PoundSign.gif
-Cfbreak.gif
-Cfcase.gif
-Cfcatch.gif
-Cfdefaultcase.gif
-Cfelse.gif
-Cfelseif.gif
-Cfif.gif
-Cflock.gif
-Cfloop.gif
-Cfswitch.gif
-Cfthrow.gif
-Cftry.gif
-Iframe.gif
-InsertColLeft.gif
-InsertColRight.gif
-InsertRowAbove.gif
-InsertRowBelow.gif
-CssMenu.gif
-Caption.gif
-Td.gif
-Th.gif
-Tr.gif
-FontTagDlg.gif
-generic.gif
-Database.gif
-DatabaseSub.gif
-DatabaseSub2.gif
-Exception.gif
-ExceptionExtendedInfo.gif
-General.gif
-HostName.gif
-Locale.gif
-Product.gif
-ProductVersion.gif
-RemoteIP.gif
-ServerFile.gif
-TemplateStack.gif
-Timestamp.gif
-TotalExecutionTime.gif
-TracePath.gif
-TracePoint.gif
-UserAgent.gif
-Variable.gif
-VariableParent.gif
-Variables.gif
-import.gif
-import_sel.gif
-arrows.gif
-Spinner_Dark_32.gif
-Spinner_Dark_64.gif
-Spinner_Light_32.gif
-Spinner_Light_64.gif
-Bolt.gif
-Bolt_dis.gif
-Bolt_sel.gif
-CF.gif
-CF_not.gif
-DSL_D.gif
-Database.gif
-IE.gif
-JavaBean.gif
-Netscape.gif
-Opera.gif
-Site_wiz_cf.gif
-TypeCurrency.gif
-TypeDate.gif
-TypeNumber.gif
-TypeString.gif
-alertIconWin.gif
-bold.gif
-bold_dis.gif
-bold_sel.gif
-bottom.gif
-bottomRight.gif
-bottomRight_sel.gif
-bottom_sel.gif
-btnAdd.gif
-btnAddDrop.gif
-btnAddDrop_dis.gif
-btnAddDrop_sel.gif
-btnAddFavorite.gif
-btnAddFavorite_dis.gif
-btnAddFavorite_sel.gif
-btnAdd_dis.gif
-btnAdd_sel.gif
-btnDel.gif
-btnDelFavorite.gif
-btnDelFavorite_dis.gif
-btnDelFavorite_sel.gif
-btnDel_dis.gif
-btnDel_sel.gif
-btnDown.gif
-btnDown_dis.gif
-btnDown_sel.gif
-btnRefresh.gif
-btnRefresh_dis.gif
-btnRefresh_sel.gif
-btnUp.gif
-btnUp_dis.gif
-btnUp_sel.gif
-calc.gif
-centerAlign.gif
-centerAlign_sel.gif
-check.gif
-checkbox.gif
-checkboxOSX.gif
-checkboxXP.gif
-checkbox_dis.gif
-checkbox_disOSX.gif
-checkbox_disXP.gif
-checkbox_sel.gif
-checkbox_selOSX.gif
-checkbox_selXP.gif
-codeHintEvent.gif
-confirmIcon.gif
-dateBtn.gif
-delete.gif
-delete20.gif
-delete_sel.gif
-disclosure_close_med.gif
-disclosure_close_small.gif
-disclosure_open_med.gif
-disclosure_open_small.gif
-down.gif
-duplicate.gif
-duplicate_sel.gif
-edit.gif
-edit_sel.gif
-favorite.gif
-folder.gif
-greywhite2x2.gif
-hintAttr.gif
-hintBehavior.gif
-hintColor.gif
-hintCss.gif
-hintDOMName.gif
-hintDomID.gif
-hintEvent.gif
-hintFlag.gif
-hintFont.gif
-hintLink.gif
-hintMisc.gif
-hintSpryDataSet.gif
-hintStatic.gif
-hintTag.gif
-hintVariable.gif
-hintXMLSchemaAttr.gif
-hintdataSet.gif
-indent.gif
-indent_dis.gif
-indent_sel.gif
-infoIconWin.gif
-insert.gif
-insert_sel.gif
-italic.gif
-italic_dis.gif
-italic_sel.gif
-justifyAlign.gif
-justifyAlign_sel.gif
-leftAlign.gif
-leftAlign_sel.gif
-outdent.gif
-outdent_dis.gif
-outdent_sel.gif
-refresh.gif
-refresh_sel.gif
-rename.gif
-rename_sel.gif
-repeatButtons.gif
-rightAlign.gif
-rightAlign_sel.gif
-saveAsText.gif
-saveAsText_sel.gif
-space.gif
-stop.gif
-tabBg.gif
-tabBgMacFormatTable.gif
-tabBgOSX.gif
-tabBgOSX335x290.gif
-tabBgOSX335x350.gif
-tabBgOSX435x334.gif
-tabBgOSX500X162.gif
-tabBgOSX500x160.gif
-tabBgOSX505x410.gif
-tabBgSel.gif
-tabBgSelOSX.gif
-tabBgSelXP.gif
-tabBgSmallWin.gif
-tabBgSmallWinXP.gif
-tabBgWin.gif
-tabBgWin335x290.gif
-tabBgWin500x160.gif
-tabBgWinXP.gif
-tabBgWinXP335x290.gif
-tabBgWinXP500x160.gif
-tabBgXP.gif
-tableCellPadding.gif
-tableHeaderBoth.gif
-tableHeaderColumn.gif
-tableHeaderNone.gif
-tableHeaderRow.gif
-top.gif
-topRight.gif
-topRight_sel.gif
-top_sel.gif
-tpBorder.gif
-tpCells.gif
-tpLeft.gif
-tpTopRow.gif
-transparent.gif
-up.gif
-whcheck.gif
-xml_attribute_node.gif
-xml_attribute_node_pc.gif
-xml_context_node.gif
-xml_node.gif
-xml_node_optional.gif
-xml_node_repeat.gif
-yield.gif
-yield28x28.gif
-SpryMenuBarDown.gif
-SpryMenuBarDownHover.gif
-SpryMenuBarRight.gif
-SpryMenuBarRightHover.gif
-BoltDisabled.gif
-BoltDown.gif
-Boltup.gif
-Last.gif
-MinusButtonDepressed.gif
-MinusButtonDisabled.gif
-PlusButtonDepressed.gif
-PlusButtonDisabled.gif
-pbar-ani.gif
-animated-overlay.gif
-BrowserSpecific.gif
-Chooser.gif
-Deprecated.gif
-Elements.gif
-General.gif
-Inspector.gif
-Obsolete.gif
-VTML.gif
-Wizard.gif
-Wizml.gif
-ajax-loader.gif
-ASP.gif
-ASPNet.gif
-AdRotator.gif
-Calendar.gif
-MMSyntaxError.gif
-JSP.gif
-TemplateParam.gif
-XSL.gif
-callResset.gif
-callable.gif
-cfelseiftab.gif
-cfelsetab.gif
-cfiftab.gif
-command.gif
-commandrecset.gif
-prepared.gif
-recordset.gif
-resultset.gif
-actionCancel.gif
-actionCancel_dis.gif
-actionConnect.gif
-actionConnect_dis.gif
-actionEdit.gif
-actionEdit_dis.gif
-actionPublish.gif
-actionPublish_dis.gif
-actionRetryConnect.gif
-actionReview.gif
-actionReview_dis.gif
-actionWorkOnline.gif
-addressGo.gif
-bgColor.gif
-bgColor_dis.gif
-bold.gif
-bold_dis.gif
-browse.gif
-build.gif
-bulletedList.gif
-bulletedList_dis.gif
-centerAlign.gif
-centerAlign_dis.gif
-confirmIcon.gif
-cpm.gif
-deploy.gif
-fgColor.gif
-fgColor_dis.gif
-fireworks.gif
-home-menu.gif
-home-menu_dis.gif
-image.gif
-image_crop.gif
-image_crop_dis.gif
-image_dis.gif
-indent.gif
-indent_dis.gif
-italic.gif
-italic_dis.gif
-justifyAlign.gif
-justifyAlign_dis.gif
-leftAlign.gif
-leftAlign_dis.gif
-link.gif
-link_dis.gif
-new_dis.gif
-numberedList.gif
-numberedList_dis.gif
-outdent.gif
-outdent_dis.gif
-pageProps.gif
-pageProps_dis.gif
-pause.gif
-pause_dis.gif
-play.gif
-play_dis.gif
-restart.gif
-restart_dis.gif
-rightAlign.gif
-rightAlign_dis.gif
-settings.gif
-showNext.gif
-showNext_dis.gif
-spellCheck.gif
-spellCheck_dis.gif
-stepIn.gif
-stepIn_dis.gif
-stepOut.gif
-stepOut_dis.gif
-stepOver.gif
-stepOver_dis.gif
-table.gif
-tableFormat.gif
-tableFormat_dis.gif
-tableInsertCol.gif
-tableInsertCol_dis.gif
-tableInsertRow.gif
-tableInsertRow_dis.gif
-tableSort.gif
-tableSort_dis.gif
-table_dis.gif
-loadingAnimation.gif
-loadingAnimation.gif
-cc-spinner.gif
-loadingAnimation.gif
-blame.gif
-debug_mode.gif
-equation.gif
-equation.gif
-throbber.gif
-wait_16.gif
-wait_32.gif
-wait_16.gif
-wait_32.gif
-dots-dark.gif
-dots.gif
-radial-dark.gif
-radial.gif
-dots-dark.gif
-dots.gif
-radial-dark.gif
-radial.gif
-properties-panel.gif
-puppet-warp.gif
-colour.gif
-create.gif
-export.gif
-selection.gif
-shape-builder.gif
-movie1.gif
-movie2.gif
-movie3.gif
-Spinner_Dark_32.gif
-Spinner_Dark_64.gif
-Spinner_Light_32.gif
-Spinner_Light_64.gif
-workspace.gif
-shadow-grid.gif
-wait_16.gif
-wait_32.gif
-dots-dark.gif
-dots.gif
-radial-dark.gif
-radial.gif
-dots-dark.gif
-dots.gif
-radial-dark.gif
-radial.gif
-curvature_tool-1fS0NMw.gif
-dimension-1FDZb4j.gif
-learn_panel-2Fm5dXX.gif
-selection_lab-34R6j-D.gif
-xd-1dGONp6.gif
-wait_16.gif
-wait_32.gif
-dots-dark.gif
-dots.gif
-radial-dark.gif
-radial.gif
-earth.gif
-earthris.gif
-tcllogo.gif
-logo100.gif
-logo64.gif
-logoLarge.gif
-logoMed.gif
-pwrdLogo100.gif
-pwrdLogo150.gif
-pwrdLogo175.gif
-pwrdLogo200.gif
-pwrdLogo75.gif
-tai-ku.gif
-blank.gif
-blank.gif
-blank.gif
-Maple.gif
-animation-orbit.gif
-animation-zoom.gif
-animation-walk.gif
-animation-pan.gif
-animation-look_around.gif
-animation-zoomwindow.gif
-animation-igloo.gif
-animation-eraser.gif
-animation-pencil.gif
-animation-select.gif
-animation-tapemeasure.gif
-animation-freehand.gif
-animation-pushpull.gif
-animation-move.gif
-animation-protractor.gif
-animation-2-point-arc.gif
-animation-arc.gif
-animation-pie.gif
-animation-3-point-arc.gif
-animation-paint.gif
-animation-classifier.gif
-animation-rectangle.gif
-animation-polygon.gif
-animation-circle.gif
-animation-offset.gif
-animation-axes.gif
-animation-rotate.gif
-setting-north-angle.gif
-animation-position_camera.gif
-animation-scale.gif
-animation-section.gif
-animation-text.gif
-animation-dimension.gif
-animation-fov.gif
-animation-followme.gif
-animation-3dtext.gif
-animation-photomatch.gif
-OuterShell.gif
-Intersect.gif
-Union.gif
-Subtract.gif
-Trim.gif
-Split.gif
-animation-rotated-rectangle.gif
-animation-pinkie.gif
-attribute-table.gif
-bg.gif
-buttons.gif
-icons.gif
-multiselect.gif
-report-arrow.gif
-rounded.gif
-scaletool.gif
-tabs.gif
-tree-i.gif
-tree.gif
-units.gif
-ajax-loader-small.gif
-ajax-loader.gif
-wait_16.gif
-wait_32.gif
-wait_16.gif
-wait_32.gif
-wait_16.gif
-wait_32.gif
-wait_16.gif
-wait_32.gif
-dots-dark.gif
-dots.gif
-radial-dark.gif
-radial.gif
-dots-dark.gif
-dots.gif
-radial-dark.gif
-radial.gif
-dots-dark.gif
-dots.gif
-radial-dark.gif
-radial.gif
-radial-dark.gif
-radial.gif
-dots-dark.gif
-dots.gif
-radial-dark.gif
-radial.gif
-dots-dark.gif
-dots.gif
-radial-dark.gif
-radial.gif
-wait_16.gif
-wait_32.gif
-wait_16.gif
-wait_32.gif
-wait_16.gif
-wait_32.gif
-wait_16.gif
-wait_32.gif
-ajax-loader.gif
-loading.gif
-loading.gif
-ajax-loader.gif
-loading.gif
-loading.gif
-ajax-loader.gif
-loading.gif
-loading.gif
-Maple.gif
-loader.gif
-steam_logo_onwhite.gif
-2ptarctool.gif
-3ptarctool.gif
-angulardimensiontool.gif
-arctool.gif
-bulgedtool.gif
-circletool.gif
-curvetool.gif
-ellipsetool.gif
-erasetool.gif
-freehandtool.gif
-jointool.gif
-labeltool.gif
-lineardimensiontool.gif
-linetool.gif
-lozengetool.gif
-pantool.gif
-pietool.gif
-polygontool.gif
-rectangletool.gif
-roundedtool.gif
-selecttool.gif
-splittool.gif
-styletool.gif
-texttool.gif
-zoomtool.gif
-tod1.gif
-tod10.gif
-tod11.gif
-tod12.gif
-tod13.gif
-tod2.gif
-tod3.gif
-tod4.gif
-tod5.gif
-tod6.gif
-tod9.gif
-folder.gif
-idle_16.gif
-idle_32.gif
-idle_48.gif
-minusnode.gif
-openfolder.gif
-plusnode.gif
-python.gif
-tk.gif
-spinner-16x16.gif
-spinner-32x32.gif
-spinner-green-16x16.gif
-spinner-white-16x16.gif
-blank.gif
-newtonscradle.gif
-back.gif
-back_large.gif
-filesave.gif
-filesave_large.gif
-forward.gif
-forward_large.gif
-hand.gif
-hand_large.gif
-home.gif
-home_large.gif
-move.gif
-move_large.gif
-subplots.gif
-subplots_large.gif
-zoom_to_rect.gif
-zoom_to_rect_large.gif
-no_time_for_that_tiny.gif
-transparent.gif
-ajax-loader.gif
-BTN_HomePage.gif
-BTN_ManualTop.gif
-BTN_NextPage.gif
-BTN_PrevPage.gif
-blank.gif
-pycom_blowing.gif
-pythoncom.gif
-www_icon.gif
-pycom_blowing.gif
-spinner.gif
-earth.gif
-earthris.gif
-tcllogo.gif
-logo100.gif
-logo64.gif
-logoLarge.gif
-logoMed.gif
-pwrdLogo100.gif
-pwrdLogo150.gif
-pwrdLogo175.gif
-pwrdLogo200.gif
-pwrdLogo75.gif
-tai-ku.gif
-back.gif
-cat.gif
-cramps.gif
-dave.gif
-info.gif
-jim.gif
-note.gif
-oxford.gif
-ring.gif
-strike.gif
-warning.gif
-spinner-16x16.gif
-spinner-32x32.gif
-spinner-green-16x16.gif
-spinner-white-16x16.gif
-blank.gif
-newtonscradle.gif
-back.gif
-cat.gif
-cramps.gif
-dave.gif
-info.gif
-jim.gif
-note.gif
-oxford.gif
-ring.gif
-strike.gif
-warning.gif
-back.gif
-back_large.gif
-filesave.gif
-filesave_large.gif
-forward.gif
-forward_large.gif
-hand.gif
-hand_large.gif
-home.gif
-home_large.gif
-move.gif
-move_large.gif
-subplots.gif
-subplots_large.gif
-zoom_to_rect.gif
-zoom_to_rect_large.gif
-folder.gif
-idle_16.gif
-idle_32.gif
-idle_48.gif
-minusnode.gif
-openfolder.gif
-plusnode.gif
-python.gif
-tk.gif
-act_fold.gif
-file.gif
-folder.gif
-info.gif
-minus.gif
-minusarm.gif
-no_entry.gif
-openfold.gif
-plus.gif
-plusarm.gif
-srcfile.gif
-textfile.gif
-warning.gif
-tix.gif
-earth.gif
-earthris.gif
-tcllogo.gif
-logo100.gif
-logo64.gif
-logoLarge.gif
-logoMed.gif
-pwrdLogo100.gif
-pwrdLogo150.gif
-pwrdLogo175.gif
-pwrdLogo200.gif
-pwrdLogo75.gif
-tai-ku.gif
-BTN_HomePage.gif
-BTN_ManualTop.gif
-BTN_NextPage.gif
-BTN_PrevPage.gif
-blank.gif
-pycom_blowing.gif
-pythoncom.gif
-www_icon.gif
-pycom_blowing.gif
-spinner.gif
-no_time_for_that_tiny.gif
-transparent.gif
-ajax-loader.gif
-earth.gif
-earthris.gif
-tcllogo.gif
-logo100.gif
-logo64.gif
-logoLarge.gif
-logoMed.gif
-pwrdLogo100.gif
-pwrdLogo150.gif
-pwrdLogo175.gif
-pwrdLogo200.gif
-pwrdLogo75.gif
-tai-ku.gif
-act_fold.gif
-file.gif
-folder.gif
-info.gif
-minus.gif
-minusarm.gif
-no_entry.gif
-openfold.gif
-plus.gif
-plusarm.gif
-srcfile.gif
-textfile.gif
-warning.gif
-tix.gif
-earth.gif
-earthris.gif
-tcllogo.gif
-logo100.gif
-logo64.gif
-logoLarge.gif
-logoMed.gif
-pwrdLogo100.gif
-pwrdLogo150.gif
-pwrdLogo175.gif
-pwrdLogo200.gif
-pwrdLogo75.gif
-tai-ku.gif
-ajax-loader-white.gif
-ajax-loader.gif
-shiverMeTimbers.gif
-shiverMeTimbers.gif
-loading-icon.gif
-0-original.gif
-1-original.gif
-10-original.gif
-11-original.gif
-12-original.gif
-13-original.gif
-14-original.gif
-15-original.gif
-16-original.gif
-17-original.gif
-18-original.gif
-19-original.gif
-2-original.gif
-20-original.gif
-21-original.gif
-22-original.gif
-23-original.gif
-24-original.gif
-25-original.gif
-26-original.gif
-27-original.gif
-28-original.gif
-29-original.gif
-3-original.gif
-30-original.gif
-31-original.gif
-32-original.gif
-33-original.gif
-34-original.gif
-35-original.gif
-36-original.gif
-37-original.gif
-38-original.gif
-39-original.gif
-4-original.gif
-5-original.gif
-6-original.gif
-7-original.gif
-8-original.gif
-9-original.gif
-loader.gif
-Jcrop.gif
-default.gif
-grey.gif
-dictionary_logo.gif
-flapper.gif
-AutoPlayOptIn.gif
-ScreenshotOptIn.gif
-0C21FD1198E462190795F093995B6358[1].gif
-e151e5[1].gif
-trans[1].gif
-trans[1].gif
-folder.gif
-idle_16.gif
-idle_32.gif
-idle_48.gif
-minusnode.gif
-openfolder.gif
-plusnode.gif
-python.gif
-tk.gif
-python.gif
-PyBanner048.gif
-act_fold.gif
-file.gif
-folder.gif
-info.gif
-minus.gif
-minusarm.gif
-no_entry.gif
-openfold.gif
-plus.gif
-plusarm.gif
-srcfile.gif
-textfile.gif
-warning.gif
-tix.gif
-earth.gif
-earthris.gif
-tcllogo.gif
-logo100.gif
-logo64.gif
-logoLarge.gif
-logoMed.gif
-pwrdLogo100.gif
-pwrdLogo150.gif
-pwrdLogo175.gif
-pwrdLogo200.gif
-pwrdLogo75.gif
-tai-ku.gif
-logo100.gif
-logo64.gif
-logoLarge.gif
-logoMed.gif
-pwrdLogo100.gif
-pwrdLogo150.gif
-pwrdLogo175.gif
-pwrdLogo200.gif
-pwrdLogo75.gif
-tai-ku.gif
-34515964-478e-4d36-bd86-89a0e2709e4a.gif
-c08b757a-663a-4f36-a025-311e97993dff.gif
-loader.gif
-attribute-table.gif
-bg.gif
-buttons.gif
-icons.gif
-multiselect.gif
-report-arrow.gif
-rounded.gif
-scaletool.gif
-tabs.gif
-tree-i.gif
-tree.gif
-units.gif
-loading.gif
-earth.gif
-earthris.gif
-tcllogo.gif
-logo100.gif
-logo64.gif
-logoLarge.gif
-logoMed.gif
-pwrdLogo100.gif
-pwrdLogo150.gif
-pwrdLogo175.gif
-pwrdLogo200.gif
-pwrdLogo75.gif
-tai-ku.gif
-screencast.gif
-minus.gif
-plus.gif
-treeview-black-line.gif
-treeview-black.gif
-treeview-default-line.gif
-treeview-default.gif
-treeview-gray-line.gif
-treeview-gray.gif
-minus.gif
-plus.gif
-treeview-black-line.gif
-treeview-black.gif
-treeview-default-line.gif
-treeview-default.gif
-treeview-gray-line.gif
-treeview-gray.gif
-minus.gif
-plus.gif
-treeview-black-line.gif
-treeview-black.gif
-treeview-default-line.gif
-treeview-default.gif
-treeview-gray-line.gif
-treeview-gray.gif
-minus.gif
-plus.gif
-treeview-black-line.gif
-treeview-black.gif
-treeview-default-line.gif
-treeview-default.gif
-treeview-gray-line.gif
-treeview-gray.gif
-minus.gif
-plus.gif
-treeview-black-line.gif
-treeview-black.gif
-treeview-default-line.gif
-treeview-default.gif
-treeview-gray-line.gif
-treeview-gray.gif
-minus.gif
-plus.gif
-treeview-black-line.gif
-treeview-black.gif
-treeview-default-line.gif
-treeview-default.gif
-treeview-gray-line.gif
-treeview-gray.gif
-HelpIcon_solid.gif
-alert_lrg.gif
-aspx_file.gif
-branding_Full2.gif
-deselectedTab_1x1.gif
-folder.gif
-gradient_onBlue.gif
-gradient_onWhite.gif
-headerGRADIENT_Tall.gif
-image1.gif
-image2.gif
-requiredBang.gif
-selectedTab_1x1.gif
-selectedTab_leftCorner.gif
-selectedTab_rightCorner.gif
-unSelectedTab_leftCorner.gif
-unSelectedTab_rightCorner.gif
-yellowCORNER.gif
-HelpIcon_solid.gif
-alert_lrg.gif
-aspx_file.gif
-branding_Full2.gif
-deselectedTab_1x1.gif
-folder.gif
-gradient_onBlue.gif
-gradient_onWhite.gif
-headerGRADIENT_Tall.gif
-image1.gif
-image2.gif
-requiredBang.gif
-selectedTab_1x1.gif
-selectedTab_leftCorner.gif
-selectedTab_rightCorner.gif
-unSelectedTab_leftCorner.gif
-unSelectedTab_rightCorner.gif
-yellowCORNER.gif
-HelpIcon_solid.gif
-alert_lrg.gif
-alert_sml.gif
-aspx_file.gif
-branding_Full2.gif
-deselectedTab_1x1.gif
-folder.gif
-gradient_onBlue.gif
-gradient_onWhite.gif
-headerGRADIENT_Tall.gif
-image1.gif
-image2.gif
-requiredBang.gif
-selectedTab_1x1.gif
-selectedTab_leftCorner.gif
-selectedTab_rightCorner.gif
-unSelectedTab_leftCorner.gif
-unSelectedTab_rightCorner.gif
-yellowCORNER.gif
-HelpIcon_solid.gif
-alert_lrg.gif
-alert_sml.gif
-aspx_file.gif
-branding_Full2.gif
-deselectedTab_1x1.gif
-folder.gif
-gradient_onBlue.gif
-gradient_onWhite.gif
-headerGRADIENT_Tall.gif
-image1.gif
-image2.gif
-requiredBang.gif
-selectedTab_1x1.gif
-selectedTab_leftCorner.gif
-selectedTab_rightCorner.gif
-unSelectedTab_leftCorner.gif
-unSelectedTab_rightCorner.gif
-yellowCORNER.gif
-@windows-hello-V4.1.gif
-DesktopKeepOnToastImg.gif
-LaptopPlugInToastImg.gif
-TabSweepExplanation.gif
-CortanaAnimation.gif
-CortanaAnimationJa.gif
-HelloFaceAnimation.gif
-oobe-bookend-cortanain-outro.gif
-oobe-bookend-cortanain.gif
-oobe-bookend-cortanaout.gif
-oobe-bookend-cortanaspeak.gif
-hey_cortana.gif
-others.gif
-package.gif
-reminder.gif
-search.gif
-speech.gif
-@windows-hello-V4.1.gif
-hey_cortana.gif
-others.gif
-package.gif
-reminder.gif
-search.gif
-speech.gif
-CortanaAnimation.gif
-CortanaAnimationJa.gif
-HelloFaceAnimation.gif
-oobe-bookend-cortanain-outro.gif
-oobe-bookend-cortanain.gif
-oobe-bookend-cortanaout.gif
-oobe-bookend-cortanaspeak.gif
-CortanaAnimation.gif
-CortanaAnimationJa.gif
-HelloFaceAnimation.gif
-oobe-bookend-cortanain-outro.gif
-oobe-bookend-cortanain.gif
-oobe-bookend-cortanaout.gif
-oobe-bookend-cortanaspeak.gif
-TabSweepExplanation.gif
-TabSweepExplanation.gif
-DesktopKeepOnToastImg.gif
-LaptopPlugInToastImg.gif
-DesktopKeepOnToastImg.gif
-LaptopPlugInToastImg.gif
-HelpIcon_solid.gif
-alert_lrg.gif
-alert_sml.gif
-aspx_file.gif
-branding_Full2.gif
-deselectedTab_1x1.gif
-folder.gif
-gradient_onBlue.gif
-gradient_onWhite.gif
-headerGRADIENT_Tall.gif
-image1.gif
-image2.gif
-requiredBang.gif
-selectedTab_1x1.gif
-selectedTab_leftCorner.gif
-selectedTab_rightCorner.gif
-unSelectedTab_leftCorner.gif
-unSelectedTab_rightCorner.gif
-yellowCORNER.gif
-HelpIcon_solid.gif
-alert_lrg.gif
-alert_sml.gif
-aspx_file.gif
-branding_Full2.gif
-deselectedTab_1x1.gif
-folder.gif
-gradient_onBlue.gif
-gradient_onWhite.gif
-headerGRADIENT_Tall.gif
-image1.gif
-image2.gif
-requiredBang.gif
-selectedTab_1x1.gif
-selectedTab_leftCorner.gif
-selectedTab_rightCorner.gif
-unSelectedTab_leftCorner.gif
-unSelectedTab_rightCorner.gif
-yellowCORNER.gif
-HelpIcon_solid.gif
-alert_lrg.gif
-aspx_file.gif
-branding_Full2.gif
-deselectedTab_1x1.gif
-folder.gif
-gradient_onBlue.gif
-gradient_onWhite.gif
-headerGRADIENT_Tall.gif
-image1.gif
-image2.gif
-requiredBang.gif
-selectedTab_1x1.gif
-selectedTab_leftCorner.gif
-selectedTab_rightCorner.gif
-unSelectedTab_leftCorner.gif
-unSelectedTab_rightCorner.gif
-yellowCORNER.gif
-HelpIcon_solid.gif
-alert_lrg.gif
-aspx_file.gif
-branding_Full2.gif
-deselectedTab_1x1.gif
-folder.gif
-gradient_onBlue.gif
-gradient_onWhite.gif
-headerGRADIENT_Tall.gif
-image1.gif
-image2.gif
-requiredBang.gif
-selectedTab_1x1.gif
-selectedTab_leftCorner.gif
-selectedTab_rightCorner.gif
-unSelectedTab_leftCorner.gif
-unSelectedTab_rightCorner.gif
-yellowCORNER.gif
-@windows-hello-v4.1.gif
-@windows-hello-v4.1.gif
-cortanaanimation.gif
-cortanaanimationja.gif
-hellofaceanimation.gif
-oobe-bookend-cortanain-outro.gif
-oobe-bookend-cortanain.gif
-oobe-bookend-cortanaout.gif
-oobe-bookend-cortanaspeak.gif
-cortanaanimation.gif
-cortanaanimationja.gif
-hellofaceanimation.gif
-oobe-bookend-cortanain-outro.gif
-oobe-bookend-cortanain.gif
-oobe-bookend-cortanaout.gif
-oobe-bookend-cortanaspeak.gif
-alert.gif
-warning.gif
-alert.gif
-warning.gif
-tabsweepexplanation.gif
-tabsweepexplanation.gif
-desktopkeepontoastimg.gif
-laptopplugintoastimg.gif
-desktopkeepontoastimg.gif
-laptopplugintoastimg.gif
-@windows-hello-v4.1.gif
-@windows-hello-v4.1.gif
-cortanaanimation.gif
-cortanaanimationja.gif
-hellofaceanimation.gif
-oobe-bookend-cortanain-outro.gif
-oobe-bookend-cortanain.gif
-oobe-bookend-cortanaout.gif
-oobe-bookend-cortanaspeak.gif
-cortanaanimation.gif
-cortanaanimationja.gif
-hellofaceanimation.gif
-oobe-bookend-cortanain-outro.gif
-oobe-bookend-cortanain.gif
-oobe-bookend-cortanaout.gif
-oobe-bookend-cortanaspeak.gif
-alert.gif
-warning.gif
-alert.gif
-warning.gif
-tabsweepexplanation.gif
-tabsweepexplanation.gif
-desktopkeepontoastimg.gif
-laptopplugintoastimg.gif
-desktopkeepontoastimg.gif
-laptopplugintoastimg.gif
+C://Go/doc/gopher/appenginelogo.gif
+C://Go/src/image/testdata/triangle-001.gif
+C://Go/src/image/testdata/video-001.5bpp.gif
+C://Go/src/image/testdata/video-001.gif
+C://Go/src/image/testdata/video-001.interlaced.gif
+C://Go/src/image/testdata/video-005.gray.gif
+C://OEM/CaringCenter/DRV/Realtek LAN_M 8411B/README/WIN8/Arabic/images/logo.gif
+C://OEM/CaringCenter/DRV/Realtek LAN_M 8411B/README/WIN8/English/images/logo.gif
+C://OEM/CaringCenter/DRV/Realtek LAN_M 8411B/README/WIN8/French/images/logo.gif
+C://OEM/CaringCenter/DRV/Realtek LAN_M 8411B/README/WIN8/German/images/logo.gif
+C://OEM/CaringCenter/DRV/Realtek LAN_M 8411B/README/WIN8/Hebrew/images/logo.gif
+C://OEM/CaringCenter/DRV/Realtek LAN_M 8411B/README/WIN8/Hungarian/images/logo.gif
+C://OEM/CaringCenter/DRV/Realtek LAN_M 8411B/README/WIN8/Italian/images/logo.gif
+C://OEM/CaringCenter/DRV/Realtek LAN_M 8411B/README/WIN8/Japanese/images/logo.gif
+C://OEM/CaringCenter/DRV/Realtek LAN_M 8411B/README/WIN8/Korean/images/logo.gif
+C://OEM/CaringCenter/DRV/Realtek LAN_M 8411B/README/WIN8/Portuguese/images/logo.gif
+C://OEM/CaringCenter/DRV/Realtek LAN_M 8411B/README/WIN8/Simplified_Chinese/images/logo.gif
+C://OEM/CaringCenter/DRV/Realtek LAN_M 8411B/README/WIN8/Spanish/images/logo.gif
+C://OEM/CaringCenter/DRV/Realtek LAN_M 8411B/README/WIN8/Traditional_Chinese/images/logo.gif
+C://OEM/CaringCenter/DRV/Realtek LAN_M 8411B/README/WIN8/Turkish/images/logo.gif
+C://OEM/CaringCenter/DRV/Realtek LAN_M 8411B/README/WIN8/Ukrinian/images/logo.gif
+C://OEM/Preload/Autorun/AutorunX/HowToUse/Images/dot-gray.gif
+C://OEM/Preload/Autorun/AutorunX/HowToUse/Images/function_01.gif
+C://OEM/Preload/Autorun/AutorunX/HowToUse/Images/left-bk.gif
+C://OEM/Preload/Autorun/AutorunX/HowToUse/Images/menu-bk-00.gif
+C://OEM/Preload/Autorun/AutorunX/HowToUse/Images/menu-bk-01.gif
+C://OEM/Preload/Autorun/AutorunX/HowToUse/Images/menu-bk-02.gif
+C://OEM/Preload/Autorun/AutorunX/HowToUse/Images/menu-white.gif
+C://OEM/Preload/Autorun/AutorunX/HowToUse/Images/menu_arrow_dn.gif
+C://OEM/Preload/Autorun/AutorunX/HowToUse/Images/menu_arrow_sm.gif
+C://OEM/Preload/Autorun/AutorunX/HowToUse/Images/orange-light.gif
+C://OEM/Preload/Autorun/AutorunX/HowToUse/Images/orange-light2.gif
+C://OEM/Preload/Autorun/AutorunX/HowToUse/Images/sub-dot-gray.gif
+C://OEM/Preload/Autorun/AutorunX/HowToUse/Images/top-bk0.gif
+C://OEM/Preload/Autorun/AutorunX/HowToUse/Images/top-name.gif
+C://OEM/Preload/Autorun/AutorunX/HowToUse/Images/transparent.gif
+C://Program Files/Adobe/Adobe After Effects CC 2018/Support Files/Libraries/images/wait_16.gif
+C://Program Files/Adobe/Adobe After Effects CC 2018/Support Files/Libraries/images/wait_32.gif
+C://Program Files/Adobe/Adobe After Effects CC 2018/Support Files/Plug-ins/MAXON CINEWARE AE/(CINEWARE Support)/lite/help/files/close.gif
+C://Program Files/Adobe/Adobe After Effects CC 2018/Support Files/Plug-ins/MAXON CINEWARE AE/(CINEWARE Support)/lite/help/files/lupe.gif
+C://Program Files/Adobe/Adobe After Effects CC 2018/Support Files/Plug-ins/MAXON CINEWARE AE/(CINEWARE Support)/lite/help/files/qt.gif
+C://Program Files/Adobe/Adobe After Effects CC 2018/Support Files/Plug-ins/MAXON CINEWARE AE/(CINEWARE Support)/lite/help/files/subgroup.gif
+C://Program Files/Adobe/Adobe After Effects CC 2018/Support Files/Plug-ins/MAXON CINEWARE AE/(CINEWARE Support)/lite/resource/modules/onlinehelp/files/subgroup.gif
+C://Program Files/Adobe/Adobe After Effects CC 2018/Support Files/com.adobe.ccx.start/images/indicators/dots-dark.gif
+C://Program Files/Adobe/Adobe After Effects CC 2018/Support Files/com.adobe.ccx.start/images/indicators/dots.gif
+C://Program Files/Adobe/Adobe After Effects CC 2018/Support Files/com.adobe.ccx.start/images/indicators/radial-dark.gif
+C://Program Files/Adobe/Adobe After Effects CC 2018/Support Files/com.adobe.ccx.start/images/indicators/radial.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/BuiltIn/Bootstrap Templates/images/100X100.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/BuiltIn/Bootstrap Templates/images/100X125.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/BuiltIn/Bootstrap Templates/images/115X115.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/BuiltIn/Bootstrap Templates/images/1200X400.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/BuiltIn/Bootstrap Templates/images/140X140.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/BuiltIn/Bootstrap Templates/images/16a085.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/BuiltIn/Bootstrap Templates/images/1920x500.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/BuiltIn/Bootstrap Templates/images/200x200.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/BuiltIn/Bootstrap Templates/images/300X200.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/BuiltIn/Bootstrap Templates/images/32X32.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/BuiltIn/Bootstrap Templates/images/35X35.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/BuiltIn/Bootstrap Templates/images/3b536b.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/BuiltIn/Bootstrap Templates/images/400X200.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/BuiltIn/Bootstrap Templates/images/400x400.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/BuiltIn/Bootstrap Templates/images/40X40.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/BuiltIn/Bootstrap Templates/images/600X300.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/BuiltIn/Bootstrap Templates/images/64X64.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/BuiltIn/Bootstrap Templates/images/72X72.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/BuiltIn/Bootstrap Templates/images/75X.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/BuiltIn/Bootstrap Templates/images/9b59b6.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/BuiltIn/Email Templates/images/120x120.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/BuiltIn/Email Templates/images/576x250.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/BuiltIn/Responsive Starters/BlogPostAssets/images/300x250.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/CEPExtensions/com.adobe.DesignLibraries.angular/images/wait_16.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/CEPExtensions/com.adobe.DesignLibraries.angular/images/wait_32.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/CEPExtensions/com.adobe.ccx.start/images/indicators/dots-dark.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/CEPExtensions/com.adobe.ccx.start/images/indicators/dots.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/CEPExtensions/com.adobe.ccx.start/images/indicators/radial-dark.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/CEPExtensions/com.adobe.ccx.start/images/indicators/radial.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Commands/FrameArrow.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Commands/allowPermission.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Commands/askPermission.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Commands/denyPermission.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Commands/key.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Commands/key_D.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Commands/layoutViewIntroStandard.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Commands/objArrow.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Content/HelloWelcome/HTML5/offline/images/blank.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Content/HelloWelcome/HTML5/offline/images/loading.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Content/Reference/HTML/images/mdw.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Content/Tutorial/Assets/images/spacer.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/DevicePreview/images/cc-spinner.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Floaters/Images/loading_bar.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Floaters/dw-extract/images/cc-spinner.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Floaters/dw-extract/images/files-item-spinner.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Floaters/dw-extract/lib/graphite-api/public/images/files-item-spinner.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Floaters/dw-extract/lib/graphite-api/public/js/ccweb.files.extract/images/cc-spinner.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Floaters/dw-extract/lib/graphite-api/public/js/ccweb.files.extract/images/files-item-spinner.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/InAppWalkthrough/images/iam/ccLibraries/IAM-ccl-color.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/InAppWalkthrough/images/iam/ccLibraries/IAM-ccl-image.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/InAppWalkthrough/images/iam/domTool/IAM-dom.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/InAppWalkthrough/images/iam/domTool/edit.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/InAppWalkthrough/images/iam/emmet/IAM-emmet.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/InAppWalkthrough/images/iam/emmit/1.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/InAppWalkthrough/images/iam/git/gitonboarding.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/InAppWalkthrough/images/iam/multiCursor/IAM-multicursor.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/InAppWalkthrough/images/iam/onboardingnc/IAM-liveview.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/InAppWalkthrough/images/iam/onboardingnc/IAM-quick-edit.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/InAppWalkthrough/images/iam/onboardingnc/IAM-relatedfilesbar.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/InAppWalkthrough/images/iam/onboardingnc/IAM-snippets.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/InAppWalkthrough/images/iam/onboardingnv/IAM-dom.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/InAppWalkthrough/images/iam/onboardingnv/IAM-liveview.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/InAppWalkthrough/images/iam/onboardingnv/IAM-quick-edit.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/InAppWalkthrough/images/iam/onboardingnv/IAM-relatedfilesbar.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/InAppWalkthrough/images/iam/quickEdit/IAM-quick-edit.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/InAppWalkthrough/images/iam/rtp/IAM-liveview.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/InAppWalkthrough/images/iam/snippets/IAM-snippets.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/InAppWalkthrough/onboarding/images/OB-gitonboarding.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/InAppWalkthrough/onboarding/images/code-hint.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/InAppWalkthrough/onboarding/images/livePreview.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/InAppWalkthrough/onboarding/images/preprocessor.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/InAppWalkthrough/onboarding/images/quick-edit.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/CFT_PI.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/IR_PI.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/Img/input_button.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/Img/input_checkbox.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/Img/input_datefield.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/Img/input_file.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/Img/input_hidden.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/Img/input_image.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/Img/input_radiobutton.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/Img/tagDialog.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/JSPS_PI.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/LPI_PIT.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/SNRV_PI.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/SPI_PIT.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/TRANS.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/UR_PI.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/button.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/checkbox.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/checkboxlist.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/comment.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/datagrid.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/datalist.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/dropDownList.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/grayPixel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/imagebutton.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/listbox.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/radiobutton.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/radiobuttonlist.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/tagDialog.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/template_expr.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/transparentPixel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Inspectors/video.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/ASP/ASPElse.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/ASP/ASPElseIf.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/ASP/ASPEnd.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/ASP/ASPIf.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/ASP/ASPInclude.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/ASP/ASPOutput.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/ASP/ASPResponseWrite.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/ASP/ASPServerCreateObj.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/ASP/ASPTag.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/ASP/TrimFormEl.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/ASP/TrimQueryStr.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Advanced/CFPageEncoding.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Advanced/Cfapplication.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Advanced/Cfchart.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Advanced/Cfcontent.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Advanced/Cfcookie.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Advanced/Cfdirectory.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Advanced/Cferror.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Advanced/Cffile.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Advanced/Cfftp.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Advanced/Cfheader.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Advanced/Cfhttp.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Advanced/Cfhttpparam.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Advanced/Cfindex.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Advanced/Cfldap.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Advanced/Cfmail.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Advanced/Cfmodule.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Advanced/Cfobject.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Advanced/Cfpop.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Advanced/Cfsearch.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Advanced/cfimport.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Basic/Cfcomment.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Basic/Cfinclude.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Basic/Cfinsert.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Basic/Cflocation.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Basic/Cfoutput.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Basic/Cfparam.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Basic/Cfquery.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Basic/Cfscript.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Basic/Cfset.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Basic/Cfupdate.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Basic/PoundSign.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Flow/Cfbreak.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Flow/Cfcase.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Flow/Cfcatch.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Flow/Cfdefaultcase.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Flow/Cfelse.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Flow/Cfelseif.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Flow/Cfif.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Flow/Cflock.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Flow/Cfloop.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Flow/Cfswitch.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Flow/Cfthrow.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/CFML Flow/Cftry.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/Frames/Iframe.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/Layout/InsertColLeft.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/Layout/InsertColRight.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/Layout/InsertRowAbove.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/Layout/InsertRowBelow.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/MM_XMLXSL/CssMenu.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/Tables/Caption.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/Tables/Td.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/Tables/Th.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/Tables/Tr.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/Text/FontTagDlg.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Objects/generic.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ServerDebugOutput/ColdFusion/Database.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ServerDebugOutput/ColdFusion/DatabaseSub.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ServerDebugOutput/ColdFusion/DatabaseSub2.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ServerDebugOutput/ColdFusion/Exception.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ServerDebugOutput/ColdFusion/ExceptionExtendedInfo.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ServerDebugOutput/ColdFusion/General.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ServerDebugOutput/ColdFusion/HostName.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ServerDebugOutput/ColdFusion/Locale.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ServerDebugOutput/ColdFusion/Product.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ServerDebugOutput/ColdFusion/ProductVersion.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ServerDebugOutput/ColdFusion/RemoteIP.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ServerDebugOutput/ColdFusion/ServerFile.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ServerDebugOutput/ColdFusion/TemplateStack.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ServerDebugOutput/ColdFusion/Timestamp.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ServerDebugOutput/ColdFusion/TotalExecutionTime.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ServerDebugOutput/ColdFusion/TracePath.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ServerDebugOutput/ColdFusion/TracePoint.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ServerDebugOutput/ColdFusion/UserAgent.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ServerDebugOutput/ColdFusion/Variable.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ServerDebugOutput/ColdFusion/VariableParent.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ServerDebugOutput/ColdFusion/Variables.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/Dinamico/Images/import.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/Dinamico/Images/import_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/Fireworks/arrows.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/LiveEdit/Extensions/coralui/resources/coralui-component-wait/Spinner_Dark_32.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/LiveEdit/Extensions/coralui/resources/coralui-component-wait/Spinner_Dark_64.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/LiveEdit/Extensions/coralui/resources/coralui-component-wait/Spinner_Light_32.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/LiveEdit/Extensions/coralui/resources/coralui-component-wait/Spinner_Light_64.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/Bolt.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/Bolt_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/Bolt_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/CF.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/CF_not.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/DSL_D.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/Database.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/IE.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/JavaBean.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/Netscape.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/Opera.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/Site_wiz_cf.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/TypeCurrency.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/TypeDate.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/TypeNumber.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/TypeString.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/alertIconWin.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/bold.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/bold_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/bold_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/bottom.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/bottomRight.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/bottomRight_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/bottom_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/btnAdd.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/btnAddDrop.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/btnAddDrop_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/btnAddDrop_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/btnAddFavorite.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/btnAddFavorite_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/btnAddFavorite_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/btnAdd_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/btnAdd_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/btnDel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/btnDelFavorite.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/btnDelFavorite_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/btnDelFavorite_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/btnDel_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/btnDel_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/btnDown.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/btnDown_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/btnDown_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/btnRefresh.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/btnRefresh_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/btnRefresh_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/btnUp.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/btnUp_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/btnUp_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/calc.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/centerAlign.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/centerAlign_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/check.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/checkbox.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/checkboxOSX.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/checkboxXP.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/checkbox_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/checkbox_disOSX.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/checkbox_disXP.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/checkbox_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/checkbox_selOSX.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/checkbox_selXP.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/codeHintEvent.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/confirmIcon.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/dateBtn.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/delete.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/delete20.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/delete_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/disclosure_close_med.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/disclosure_close_small.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/disclosure_open_med.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/disclosure_open_small.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/down.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/duplicate.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/duplicate_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/edit.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/edit_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/favorite.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/folder.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/greywhite2x2.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/hintAttr.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/hintBehavior.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/hintColor.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/hintCss.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/hintDOMName.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/hintDomID.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/hintEvent.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/hintFlag.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/hintFont.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/hintLink.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/hintMisc.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/hintSpryDataSet.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/hintStatic.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/hintTag.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/hintVariable.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/hintXMLSchemaAttr.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/hintdataSet.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/indent.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/indent_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/indent_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/infoIconWin.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/insert.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/insert_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/italic.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/italic_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/italic_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/justifyAlign.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/justifyAlign_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/leftAlign.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/leftAlign_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/outdent.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/outdent_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/outdent_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/refresh.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/refresh_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/rename.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/rename_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/repeatButtons.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/rightAlign.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/rightAlign_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/saveAsText.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/saveAsText_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/space.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/stop.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tabBg.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tabBgMacFormatTable.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tabBgOSX.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tabBgOSX335x290.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tabBgOSX335x350.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tabBgOSX435x334.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tabBgOSX500X162.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tabBgOSX500x160.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tabBgOSX505x410.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tabBgSel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tabBgSelOSX.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tabBgSelXP.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tabBgSmallWin.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tabBgSmallWinXP.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tabBgWin.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tabBgWin335x290.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tabBgWin500x160.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tabBgWinXP.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tabBgWinXP335x290.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tabBgWinXP500x160.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tabBgXP.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tableCellPadding.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tableHeaderBoth.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tableHeaderColumn.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tableHeaderNone.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tableHeaderRow.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/top.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/topRight.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/topRight_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/top_sel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tpBorder.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tpCells.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tpLeft.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/tpTopRow.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/transparent.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/up.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/whcheck.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/xml_attribute_node.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/xml_attribute_node_pc.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/xml_context_node.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/xml_node.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/xml_node_optional.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/xml_node_repeat.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/yield.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/MM/Images/yield28x28.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/Spry/Widgets/MenuBar/SpryMenuBarDown.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/Spry/Widgets/MenuBar/SpryMenuBarDownHover.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/Spry/Widgets/MenuBar/SpryMenuBarRight.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/Spry/Widgets/MenuBar/SpryMenuBarRightHover.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/UltraDev/Images/BoltDisabled.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/UltraDev/Images/BoltDown.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/UltraDev/Images/Boltup.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/UltraDev/Images/Last.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/UltraDev/Images/MinusButtonDepressed.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/UltraDev/Images/MinusButtonDisabled.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/UltraDev/Images/PlusButtonDepressed.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/UltraDev/Images/PlusButtonDisabled.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/jQueryWidgets/Widgets/Progressbar/pbar-ani.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Shared/jQueryWidgets/Widgets/common/images/animated-overlay.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/TagLibraries/Icons/BrowserSpecific.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/TagLibraries/Icons/Chooser.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/TagLibraries/Icons/Deprecated.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/TagLibraries/Icons/Elements.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/TagLibraries/Icons/General.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/TagLibraries/Icons/Inspector.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/TagLibraries/Icons/Obsolete.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/TagLibraries/Icons/VTML.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/TagLibraries/Icons/Wizard.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/TagLibraries/Icons/Wizml.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Third Party Source Code/jquery-mobile/images/ajax-loader.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ThirdPartyTags/ASP.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ThirdPartyTags/ASPNet.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ThirdPartyTags/ASPNetTags/AdRotator.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ThirdPartyTags/ASPNetTags/Calendar.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ThirdPartyTags/ASPNetTags/MMSyntaxError.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ThirdPartyTags/JSP.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ThirdPartyTags/TemplateParam.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ThirdPartyTags/XSL.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ThirdPartyTags/callResset.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ThirdPartyTags/callable.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ThirdPartyTags/cfelseiftab.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ThirdPartyTags/cfelsetab.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ThirdPartyTags/cfiftab.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ThirdPartyTags/command.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ThirdPartyTags/commandrecset.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ThirdPartyTags/prepared.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ThirdPartyTags/recordset.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/ThirdPartyTags/resultset.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/actionCancel.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/actionCancel_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/actionConnect.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/actionConnect_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/actionEdit.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/actionEdit_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/actionPublish.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/actionPublish_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/actionRetryConnect.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/actionReview.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/actionReview_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/actionWorkOnline.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/addressGo.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/bgColor.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/bgColor_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/bold.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/bold_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/browse.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/build.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/bulletedList.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/bulletedList_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/centerAlign.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/centerAlign_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/confirmIcon.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/cpm.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/deploy.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/fgColor.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/fgColor_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/fireworks.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/home-menu.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/home-menu_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/image.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/image_crop.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/image_crop_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/image_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/indent.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/indent_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/italic.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/italic_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/justifyAlign.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/justifyAlign_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/leftAlign.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/leftAlign_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/link.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/link_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/new_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/numberedList.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/numberedList_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/outdent.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/outdent_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/pageProps.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/pageProps_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/pause.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/pause_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/play.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/play_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/restart.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/restart_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/rightAlign.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/rightAlign_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/settings.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/showNext.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/showNext_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/spellCheck.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/spellCheck_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/stepIn.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/stepIn_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/stepOut.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/stepOut_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/stepOver.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/stepOver_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/table.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/tableFormat.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/tableFormat_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/tableInsertCol.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/tableInsertCol_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/tableInsertRow.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/tableInsertRow_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/tableSort.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/tableSort_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/Toolbars/images/MM/table_dis.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/VisualMediaQuery/loadingAnimation.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/configuration/feedback/images/loadingAnimation.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/node/dp-node/client-scripts/static/files/cc-spinner.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/ruby/lib/ruby/2.4.0/rdoc/generator/template/darkfish/images/loadingAnimation.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/www/extensions/default/brackets-git/docs/images/blame.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/www/extensions/default/brackets-git/docs/images/debug_mode.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/www/node_modules/npm/node_modules/npm-registry-client/node_modules/retry/equation.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/www/node_modules/npm/node_modules/retry/equation.gif
+C://Program Files/Adobe/Adobe Dreamweaver CC 2018/www/styles/images/throbber.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.DesignLibraries.angular/images/wait_16.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.DesignLibraries.angular/images/wait_32.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.DesignLibraries.angular.touch/images/wait_16.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.DesignLibraries.angular.touch/images/wait_32.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.ccx.fnft/images/indicators/dots-dark.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.ccx.fnft/images/indicators/dots.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.ccx.fnft/images/indicators/radial-dark.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.ccx.fnft/images/indicators/radial.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.ccx.start/images/indicators/dots-dark.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.ccx.start/images/indicators/dots.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.ccx.start/images/indicators/radial-dark.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.ccx.start/images/indicators/radial.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.illustrator.OnBoarding/offline/PropertiesPanel/properties-panel.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.illustrator.OnBoarding/offline/VectorSculpting/puppet-warp.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.illustrator.OnBoardingForLearnPanel/offline/images/colour.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.illustrator.OnBoardingForLearnPanel/offline/images/create.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.illustrator.OnBoardingForLearnPanel/offline/images/export.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.illustrator.OnBoardingForLearnPanel/offline/images/selection.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.illustrator.OnBoardingForLearnPanel/offline/images/shape-builder.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.illustrator.PixelSnappingOptions/offline/movie1.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.illustrator.PixelSnappingOptions/offline/movie2.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.illustrator.PixelSnappingOptions/offline/movie3.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.illustrator.PixelSnappingOptions/resources/coralui-component-wait/Spinner_Dark_32.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.illustrator.PixelSnappingOptions/resources/coralui-component-wait/Spinner_Dark_64.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.illustrator.PixelSnappingOptions/resources/coralui-component-wait/Spinner_Light_32.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.illustrator.PixelSnappingOptions/resources/coralui-component-wait/Spinner_Light_64.gif
+C://Program Files/Adobe/Adobe Illustrator CC 2018/Support Files/Required/CEP/extensions/com.adobe.illustrator.WorkspaceBasicsOnBoarding/workspace.gif
+C://Program Files/Adobe/Adobe Lightroom Classic CC/Shared/webengines/default_html.lrwebengine/resources/misc/shadow-grid.gif
+C://Program Files/Adobe/Adobe Photoshop CC 2018/Required/CEP/extensions/com.adobe.DesignLibraryPanel.html/images/wait_16.gif
+C://Program Files/Adobe/Adobe Photoshop CC 2018/Required/CEP/extensions/com.adobe.DesignLibraryPanel.html/images/wait_32.gif
+C://Program Files/Adobe/Adobe Photoshop CC 2018/Required/CEP/extensions/com.adobe.ccx.fnft/images/indicators/dots-dark.gif
+C://Program Files/Adobe/Adobe Photoshop CC 2018/Required/CEP/extensions/com.adobe.ccx.fnft/images/indicators/dots.gif
+C://Program Files/Adobe/Adobe Photoshop CC 2018/Required/CEP/extensions/com.adobe.ccx.fnft/images/indicators/radial-dark.gif
+C://Program Files/Adobe/Adobe Photoshop CC 2018/Required/CEP/extensions/com.adobe.ccx.fnft/images/indicators/radial.gif
+C://Program Files/Adobe/Adobe Photoshop CC 2018/Required/CEP/extensions/com.adobe.ccx.start/images/indicators/dots-dark.gif
+C://Program Files/Adobe/Adobe Photoshop CC 2018/Required/CEP/extensions/com.adobe.ccx.start/images/indicators/dots.gif
+C://Program Files/Adobe/Adobe Photoshop CC 2018/Required/CEP/extensions/com.adobe.ccx.start/images/indicators/radial-dark.gif
+C://Program Files/Adobe/Adobe Photoshop CC 2018/Required/CEP/extensions/com.adobe.ccx.start/images/indicators/radial.gif
+C://Program Files/Adobe/Adobe Photoshop CC 2018/Required/www-butler/build/assets/curvature_tool-1fS0NMw.gif
+C://Program Files/Adobe/Adobe Photoshop CC 2018/Required/www-butler/build/assets/dimension-1FDZb4j.gif
+C://Program Files/Adobe/Adobe Photoshop CC 2018/Required/www-butler/build/assets/learn_panel-2Fm5dXX.gif
+C://Program Files/Adobe/Adobe Photoshop CC 2018/Required/www-butler/build/assets/selection_lab-34R6j-D.gif
+C://Program Files/Adobe/Adobe Photoshop CC 2018/Required/www-butler/build/assets/xd-1dGONp6.gif
+C://Program Files/Adobe/Adobe Premiere Pro CC 2018/CEP/extensions/com.adobe.DesignLibraries.angular.2015.1/images/wait_16.gif
+C://Program Files/Adobe/Adobe Premiere Pro CC 2018/CEP/extensions/com.adobe.DesignLibraries.angular.2015.1/images/wait_32.gif
+C://Program Files/Adobe/Adobe Premiere Pro CC 2018/CEP/extensions/com.adobe.ccx.start/images/indicators/dots-dark.gif
+C://Program Files/Adobe/Adobe Premiere Pro CC 2018/CEP/extensions/com.adobe.ccx.start/images/indicators/dots.gif
+C://Program Files/Adobe/Adobe Premiere Pro CC 2018/CEP/extensions/com.adobe.ccx.start/images/indicators/radial-dark.gif
+C://Program Files/Adobe/Adobe Premiere Pro CC 2018/CEP/extensions/com.adobe.ccx.start/images/indicators/radial.gif
+C://Program Files/Git/mingw64/lib/tk8.6/demos/images/earth.gif
+C://Program Files/Git/mingw64/lib/tk8.6/demos/images/earthris.gif
+C://Program Files/Git/mingw64/lib/tk8.6/demos/images/tcllogo.gif
+C://Program Files/Git/mingw64/lib/tk8.6/images/logo100.gif
+C://Program Files/Git/mingw64/lib/tk8.6/images/logo64.gif
+C://Program Files/Git/mingw64/lib/tk8.6/images/logoLarge.gif
+C://Program Files/Git/mingw64/lib/tk8.6/images/logoMed.gif
+C://Program Files/Git/mingw64/lib/tk8.6/images/pwrdLogo100.gif
+C://Program Files/Git/mingw64/lib/tk8.6/images/pwrdLogo150.gif
+C://Program Files/Git/mingw64/lib/tk8.6/images/pwrdLogo175.gif
+C://Program Files/Git/mingw64/lib/tk8.6/images/pwrdLogo200.gif
+C://Program Files/Git/mingw64/lib/tk8.6/images/pwrdLogo75.gif
+C://Program Files/Git/mingw64/lib/tk8.6/images/tai-ku.gif
+C://Program Files/JetBrains/PyCharm Community Edition 2019.2/helpers/MathJax/jax/output/HTML-CSS/blank.gif
+C://Program Files/JetBrains/PyCharm Community Edition 2019.2/helpers/py2only/docutils/writers/s5_html/themes/default/blank.gif
+C://Program Files/JetBrains/PyCharm Community Edition 2019.2/helpers/py3only/docutils/writers/s5_html/themes/default/blank.gif
+C://Program Files/Microsoft Office/root/Templates/Presentation Designs/Maple.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/10508/images/animation-orbit.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/10509/images/animation-zoom.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/10520/images/animation-walk.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/10523/images/animation-pan.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/10525/images/animation-look_around.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/10526/images/animation-zoomwindow.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/10631/images/animation-igloo.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21019/images/animation-eraser.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21020/images/animation-pencil.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21022/images/animation-select.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21024/images/animation-tapemeasure.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21031/images/animation-freehand.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21041/images/animation-pushpull.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21048/images/animation-move.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21057/images/animation-protractor.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21065/images/animation-2-point-arc.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21069/images/animation-arc.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21070/images/animation-pie.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21071/images/animation-3-point-arc.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21074/images/animation-paint.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21075/images/animation-classifier.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21094/images/animation-rectangle.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21095/images/animation-polygon.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21096/images/animation-circle.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21100/images/animation-offset.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21126/images/animation-axes.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21129/images/animation-rotate.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21162/images/setting-north-angle.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21169/images/animation-position_camera.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21236/images/animation-scale.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21337/images/animation-section.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21405/images/animation-text.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21410/images/animation-dimension.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21494/images/animation-fov.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21525/images/animation-followme.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/21940/images/animation-3dtext.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/23006/images/animation-photomatch.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/24198/images/OuterShell.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/24200/images/Intersect.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/24201/images/Union.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/24202/images/Subtract.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/24203/images/Trim.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/24204/images/Split.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/24223/images/animation-rotated-rectangle.gif
+C://Program Files/SketchUp/SketchUp 2016/Resources/en-US/helpcontent/tool/900/images/animation-pinkie.gif
+C://Program Files/SketchUp/SketchUp 2016/ShippedExtensions/su_dynamiccomponents/images/attribute-table.gif
+C://Program Files/SketchUp/SketchUp 2016/ShippedExtensions/su_dynamiccomponents/images/bg.gif
+C://Program Files/SketchUp/SketchUp 2016/ShippedExtensions/su_dynamiccomponents/images/buttons.gif
+C://Program Files/SketchUp/SketchUp 2016/ShippedExtensions/su_dynamiccomponents/images/icons.gif
+C://Program Files/SketchUp/SketchUp 2016/ShippedExtensions/su_dynamiccomponents/images/multiselect.gif
+C://Program Files/SketchUp/SketchUp 2016/ShippedExtensions/su_dynamiccomponents/images/report-arrow.gif
+C://Program Files/SketchUp/SketchUp 2016/ShippedExtensions/su_dynamiccomponents/images/rounded.gif
+C://Program Files/SketchUp/SketchUp 2016/ShippedExtensions/su_dynamiccomponents/images/scaletool.gif
+C://Program Files/SketchUp/SketchUp 2016/ShippedExtensions/su_dynamiccomponents/images/tabs.gif
+C://Program Files/SketchUp/SketchUp 2016/ShippedExtensions/su_dynamiccomponents/images/tree-i.gif
+C://Program Files/SketchUp/SketchUp 2016/ShippedExtensions/su_dynamiccomponents/images/tree.gif
+C://Program Files/SketchUp/SketchUp 2016/ShippedExtensions/su_dynamiccomponents/images/units.gif
+C://Program Files/SketchUp/SketchUp 2016/ShippedExtensions/su_trimble_connect/images/ajax-loader-small.gif
+C://Program Files/SketchUp/SketchUp 2016/ShippedExtensions/su_trimble_connect/images/ajax-loader.gif
+C://Program Files (x86)/Adobe/Adobe Creative Cloud/CCLibrary/Resources/panels/CC_LIBRARIES_PANEL_EXTENSION_2_10_56/Contents/images/wait_16.gif
+C://Program Files (x86)/Adobe/Adobe Creative Cloud/CCLibrary/Resources/panels/CC_LIBRARIES_PANEL_EXTENSION_2_10_56/Contents/images/wait_32.gif
+C://Program Files (x86)/Adobe/Adobe Creative Cloud/CCLibrary/Resources/panels/CC_LIBRARIES_PANEL_EXTENSION_2_11_27/Contents/images/wait_16.gif
+C://Program Files (x86)/Adobe/Adobe Creative Cloud/CCLibrary/Resources/panels/CC_LIBRARIES_PANEL_EXTENSION_2_11_27/Contents/images/wait_32.gif
+C://Program Files (x86)/Adobe/Adobe Creative Cloud/CCLibrary/Resources/panels/CC_LIBRARIES_PANEL_EXTENSION_2_3_1050/Contents/images/wait_16.gif
+C://Program Files (x86)/Adobe/Adobe Creative Cloud/CCLibrary/Resources/panels/CC_LIBRARIES_PANEL_EXTENSION_2_3_1050/Contents/images/wait_32.gif
+C://Program Files (x86)/Adobe/Adobe Creative Cloud/CCLibrary/Resources/panels/CC_LIBRARIES_PANEL_EXTENSION_2_6_64/Contents/images/wait_16.gif
+C://Program Files (x86)/Adobe/Adobe Creative Cloud/CCLibrary/Resources/panels/CC_LIBRARIES_PANEL_EXTENSION_2_6_64/Contents/images/wait_32.gif
+C://Program Files (x86)/Adobe/Adobe Creative Cloud/CCXProcess/Resources/panels/CCX_CMDN_EXTENSION_2_0_1_001/Contents/images/indicators/dots-dark.gif
+C://Program Files (x86)/Adobe/Adobe Creative Cloud/CCXProcess/Resources/panels/CCX_CMDN_EXTENSION_2_0_1_001/Contents/images/indicators/dots.gif
+C://Program Files (x86)/Adobe/Adobe Creative Cloud/CCXProcess/Resources/panels/CCX_CMDN_EXTENSION_2_0_1_001/Contents/images/indicators/radial-dark.gif
+C://Program Files (x86)/Adobe/Adobe Creative Cloud/CCXProcess/Resources/panels/CCX_CMDN_EXTENSION_2_0_1_001/Contents/images/indicators/radial.gif
+C://Program Files (x86)/Adobe/Adobe Creative Cloud/CCXProcess/Resources/panels/CCX_START_EXTENSION_1_2_1_001/Contents/images/indicators/dots-dark.gif
+C://Program Files (x86)/Adobe/Adobe Creative Cloud/CCXProcess/Resources/panels/CCX_START_EXTENSION_1_2_1_001/Contents/images/indicators/dots.gif
+C://Program Files (x86)/Adobe/Adobe Creative Cloud/CCXProcess/Resources/panels/CCX_START_EXTENSION_1_2_1_001/Contents/images/indicators/radial-dark.gif
+C://Program Files (x86)/Adobe/Adobe Creative Cloud/CCXProcess/Resources/panels/CCX_START_EXTENSION_1_2_1_001/Contents/images/indicators/radial.gif
+C://Program Files (x86)/Adobe/Adobe Creative Cloud/CCXProcess/Resources/panels/CCX_START_EXTENSION_1_4_2_009/Contents/images/indicators/dots-dark.gif
+C://Program Files (x86)/Adobe/Adobe Creative Cloud/CCXProcess/Resources/panels/CCX_START_EXTENSION_1_4_2_009/Contents/images/indicators/dots.gif
+C://Program Files (x86)/Adobe/Adobe Creative Cloud/CCXProcess/Resources/panels/CCX_START_EXTENSION_1_4_2_009/Contents/images/indicators/radial-dark.gif
+C://Program Files (x86)/Adobe/Adobe Creative Cloud/CCXProcess/Resources/panels/CCX_START_EXTENSION_1_4_2_009/Contents/images/indicators/radial.gif
+C://Program Files (x86)/Adobe/Adobe Creative Cloud/CCXProcess/Resources/panels/CCX_START_EXTENSION_2_0_1_044/Contents/images/indicators/radial-dark.gif
+C://Program Files (x86)/Adobe/Adobe Creative Cloud/CCXProcess/Resources/panels/CCX_START_EXTENSION_2_0_1_044/Contents/images/indicators/radial.gif
+C://Program Files (x86)/Common Files/Adobe/CEP/extensions/CCX_START_EXTENSION_1_2_1_001/images/indicators/dots-dark.gif
+C://Program Files (x86)/Common Files/Adobe/CEP/extensions/CCX_START_EXTENSION_1_2_1_001/images/indicators/dots.gif
+C://Program Files (x86)/Common Files/Adobe/CEP/extensions/CCX_START_EXTENSION_1_2_1_001/images/indicators/radial-dark.gif
+C://Program Files (x86)/Common Files/Adobe/CEP/extensions/CCX_START_EXTENSION_1_2_1_001/images/indicators/radial.gif
+C://Program Files (x86)/Common Files/Adobe/CEP/extensions/CCX_START_EXTENSION_1_4_2_009/images/indicators/dots-dark.gif
+C://Program Files (x86)/Common Files/Adobe/CEP/extensions/CCX_START_EXTENSION_1_4_2_009/images/indicators/dots.gif
+C://Program Files (x86)/Common Files/Adobe/CEP/extensions/CCX_START_EXTENSION_1_4_2_009/images/indicators/radial-dark.gif
+C://Program Files (x86)/Common Files/Adobe/CEP/extensions/CCX_START_EXTENSION_1_4_2_009/images/indicators/radial.gif
+C://Program Files (x86)/Common Files/Adobe/CEP/extensions/CC_LIBRARIES_PANEL_EXTENSION_2_10_56/images/wait_16.gif
+C://Program Files (x86)/Common Files/Adobe/CEP/extensions/CC_LIBRARIES_PANEL_EXTENSION_2_10_56/images/wait_32.gif
+C://Program Files (x86)/Common Files/Adobe/CEP/extensions/CC_LIBRARIES_PANEL_EXTENSION_2_11_27/images/wait_16.gif
+C://Program Files (x86)/Common Files/Adobe/CEP/extensions/CC_LIBRARIES_PANEL_EXTENSION_2_11_27/images/wait_32.gif
+C://Program Files (x86)/Common Files/Adobe/CEP/extensions/CC_LIBRARIES_PANEL_EXTENSION_2_3_1050/images/wait_16.gif
+C://Program Files (x86)/Common Files/Adobe/CEP/extensions/CC_LIBRARIES_PANEL_EXTENSION_2_3_1050/images/wait_32.gif
+C://Program Files (x86)/Common Files/Adobe/CEP/extensions/CC_LIBRARIES_PANEL_EXTENSION_2_6_64/images/wait_16.gif
+C://Program Files (x86)/Common Files/Adobe/CEP/extensions/CC_LIBRARIES_PANEL_EXTENSION_2_6_64/images/wait_32.gif
+C://Program Files (x86)/Garena/Garena/2.0.1907.0210/web/assets/images/ajax-loader.gif
+C://Program Files (x86)/Garena/Garena/2.0.1907.0210/web/assets/images/effects/loading.gif
+C://Program Files (x86)/Garena/Garena/2.0.1907.0210/web/assets/images/loading.gif
+C://Program Files (x86)/Garena/Garena/2.0.1909.0514/web/assets/images/ajax-loader.gif
+C://Program Files (x86)/Garena/Garena/2.0.1909.0514/web/assets/images/effects/loading.gif
+C://Program Files (x86)/Garena/Garena/2.0.1909.0514/web/assets/images/loading.gif
+C://Program Files (x86)/Garena/Garena/2.0.1909.2618/web/assets/images/ajax-loader.gif
+C://Program Files (x86)/Garena/Garena/2.0.1909.2618/web/assets/images/effects/loading.gif
+C://Program Files (x86)/Garena/Garena/2.0.1909.2618/web/assets/images/loading.gif
+C://Program Files (x86)/Microsoft Office/root/Templates/Presentation Designs/Maple.gif
+C://Program Files (x86)/Mozilla Firefox/distribution/extensions/abb-acer@amazon.com/static/images/loader.gif
+C://Program Files (x86)/Steam/steam/cached/steam_logo_onwhite.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/Instructor/images/2ptarctool.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/Instructor/images/3ptarctool.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/Instructor/images/angulardimensiontool.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/Instructor/images/arctool.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/Instructor/images/bulgedtool.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/Instructor/images/circletool.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/Instructor/images/curvetool.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/Instructor/images/ellipsetool.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/Instructor/images/erasetool.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/Instructor/images/freehandtool.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/Instructor/images/jointool.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/Instructor/images/labeltool.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/Instructor/images/lineardimensiontool.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/Instructor/images/linetool.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/Instructor/images/lozengetool.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/Instructor/images/pantool.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/Instructor/images/pietool.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/Instructor/images/polygontool.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/Instructor/images/rectangletool.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/Instructor/images/roundedtool.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/Instructor/images/selecttool.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/Instructor/images/splittool.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/Instructor/images/styletool.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/Instructor/images/texttool.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/Instructor/images/zoomtool.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/TipOfTheDay/images/tod1.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/TipOfTheDay/images/tod10.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/TipOfTheDay/images/tod11.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/TipOfTheDay/images/tod12.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/TipOfTheDay/images/tod13.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/TipOfTheDay/images/tod2.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/TipOfTheDay/images/tod3.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/TipOfTheDay/images/tod4.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/TipOfTheDay/images/tod5.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/TipOfTheDay/images/tod6.gif
+C://ProgramData/SketchUp/SketchUp 2016/LayOut/TipOfTheDay/images/tod9.gif
+C://Users/NanniesX/Anaconda3/Lib/idlelib/Icons/folder.gif
+C://Users/NanniesX/Anaconda3/Lib/idlelib/Icons/idle_16.gif
+C://Users/NanniesX/Anaconda3/Lib/idlelib/Icons/idle_32.gif
+C://Users/NanniesX/Anaconda3/Lib/idlelib/Icons/idle_48.gif
+C://Users/NanniesX/Anaconda3/Lib/idlelib/Icons/minusnode.gif
+C://Users/NanniesX/Anaconda3/Lib/idlelib/Icons/openfolder.gif
+C://Users/NanniesX/Anaconda3/Lib/idlelib/Icons/plusnode.gif
+C://Users/NanniesX/Anaconda3/Lib/idlelib/Icons/python.gif
+C://Users/NanniesX/Anaconda3/Lib/idlelib/Icons/tk.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/anaconda_navigator/static/images/spinner-16x16.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/anaconda_navigator/static/images/spinner-32x32.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/anaconda_navigator/static/images/spinner-green-16x16.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/anaconda_navigator/static/images/spinner-white-16x16.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/docutils/writers/s5_html/themes/default/blank.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/imageio/resources/images/newtonscradle.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/matplotlib/mpl-data/images/back.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/matplotlib/mpl-data/images/back_large.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/matplotlib/mpl-data/images/filesave.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/matplotlib/mpl-data/images/filesave_large.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/matplotlib/mpl-data/images/forward.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/matplotlib/mpl-data/images/forward_large.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/matplotlib/mpl-data/images/hand.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/matplotlib/mpl-data/images/hand_large.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/matplotlib/mpl-data/images/home.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/matplotlib/mpl-data/images/home_large.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/matplotlib/mpl-data/images/move.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/matplotlib/mpl-data/images/move_large.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/matplotlib/mpl-data/images/subplots.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/matplotlib/mpl-data/images/subplots_large.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/matplotlib/mpl-data/images/zoom_to_rect.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/matplotlib/mpl-data/images/zoom_to_rect_large.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/skimage/data/no_time_for_that_tiny.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/sphinx/themes/pyramid/static/transparent.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/sphinxcontrib/websupport/files/ajax-loader.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/win32com/HTML/image/BTN_HomePage.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/win32com/HTML/image/BTN_ManualTop.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/win32com/HTML/image/BTN_NextPage.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/win32com/HTML/image/BTN_PrevPage.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/win32com/HTML/image/blank.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/win32com/HTML/image/pycom_blowing.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/win32com/HTML/image/pythoncom.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/win32com/HTML/image/www_icon.gif
+C://Users/NanniesX/Anaconda3/Lib/site-packages/win32comext/axscript/Demos/client/ie/pycom_blowing.gif
+C://Users/NanniesX/Anaconda3/Library/doc/global/template/images/spinner.gif
+C://Users/NanniesX/Anaconda3/Library/lib/tk8.6/demos/images/earth.gif
+C://Users/NanniesX/Anaconda3/Library/lib/tk8.6/demos/images/earthris.gif
+C://Users/NanniesX/Anaconda3/Library/lib/tk8.6/demos/images/tcllogo.gif
+C://Users/NanniesX/Anaconda3/Library/lib/tk8.6/images/logo100.gif
+C://Users/NanniesX/Anaconda3/Library/lib/tk8.6/images/logo64.gif
+C://Users/NanniesX/Anaconda3/Library/lib/tk8.6/images/logoLarge.gif
+C://Users/NanniesX/Anaconda3/Library/lib/tk8.6/images/logoMed.gif
+C://Users/NanniesX/Anaconda3/Library/lib/tk8.6/images/pwrdLogo100.gif
+C://Users/NanniesX/Anaconda3/Library/lib/tk8.6/images/pwrdLogo150.gif
+C://Users/NanniesX/Anaconda3/Library/lib/tk8.6/images/pwrdLogo175.gif
+C://Users/NanniesX/Anaconda3/Library/lib/tk8.6/images/pwrdLogo200.gif
+C://Users/NanniesX/Anaconda3/Library/lib/tk8.6/images/pwrdLogo75.gif
+C://Users/NanniesX/Anaconda3/Library/lib/tk8.6/images/tai-ku.gif
+C://Users/NanniesX/Anaconda3/Library/share/doc/tiff/html/images/back.gif
+C://Users/NanniesX/Anaconda3/Library/share/doc/tiff/html/images/cat.gif
+C://Users/NanniesX/Anaconda3/Library/share/doc/tiff/html/images/cramps.gif
+C://Users/NanniesX/Anaconda3/Library/share/doc/tiff/html/images/dave.gif
+C://Users/NanniesX/Anaconda3/Library/share/doc/tiff/html/images/info.gif
+C://Users/NanniesX/Anaconda3/Library/share/doc/tiff/html/images/jim.gif
+C://Users/NanniesX/Anaconda3/Library/share/doc/tiff/html/images/note.gif
+C://Users/NanniesX/Anaconda3/Library/share/doc/tiff/html/images/oxford.gif
+C://Users/NanniesX/Anaconda3/Library/share/doc/tiff/html/images/ring.gif
+C://Users/NanniesX/Anaconda3/Library/share/doc/tiff/html/images/strike.gif
+C://Users/NanniesX/Anaconda3/Library/share/doc/tiff/html/images/warning.gif
+C://Users/NanniesX/Anaconda3/pkgs/anaconda-navigator-1.9.7-py37_0/Lib/site-packages/anaconda_navigator/static/images/spinner-16x16.gif
+C://Users/NanniesX/Anaconda3/pkgs/anaconda-navigator-1.9.7-py37_0/Lib/site-packages/anaconda_navigator/static/images/spinner-32x32.gif
+C://Users/NanniesX/Anaconda3/pkgs/anaconda-navigator-1.9.7-py37_0/Lib/site-packages/anaconda_navigator/static/images/spinner-green-16x16.gif
+C://Users/NanniesX/Anaconda3/pkgs/anaconda-navigator-1.9.7-py37_0/Lib/site-packages/anaconda_navigator/static/images/spinner-white-16x16.gif
+C://Users/NanniesX/Anaconda3/pkgs/docutils-0.14-py37_0/Lib/site-packages/docutils/writers/s5_html/themes/default/blank.gif
+C://Users/NanniesX/Anaconda3/pkgs/imageio-2.5.0-py37_0/Lib/site-packages/imageio/resources/images/newtonscradle.gif
+C://Users/NanniesX/Anaconda3/pkgs/libtiff-4.0.10-hb898794_2/Library/share/doc/tiff/html/images/back.gif
+C://Users/NanniesX/Anaconda3/pkgs/libtiff-4.0.10-hb898794_2/Library/share/doc/tiff/html/images/cat.gif
+C://Users/NanniesX/Anaconda3/pkgs/libtiff-4.0.10-hb898794_2/Library/share/doc/tiff/html/images/cramps.gif
+C://Users/NanniesX/Anaconda3/pkgs/libtiff-4.0.10-hb898794_2/Library/share/doc/tiff/html/images/dave.gif
+C://Users/NanniesX/Anaconda3/pkgs/libtiff-4.0.10-hb898794_2/Library/share/doc/tiff/html/images/info.gif
+C://Users/NanniesX/Anaconda3/pkgs/libtiff-4.0.10-hb898794_2/Library/share/doc/tiff/html/images/jim.gif
+C://Users/NanniesX/Anaconda3/pkgs/libtiff-4.0.10-hb898794_2/Library/share/doc/tiff/html/images/note.gif
+C://Users/NanniesX/Anaconda3/pkgs/libtiff-4.0.10-hb898794_2/Library/share/doc/tiff/html/images/oxford.gif
+C://Users/NanniesX/Anaconda3/pkgs/libtiff-4.0.10-hb898794_2/Library/share/doc/tiff/html/images/ring.gif
+C://Users/NanniesX/Anaconda3/pkgs/libtiff-4.0.10-hb898794_2/Library/share/doc/tiff/html/images/strike.gif
+C://Users/NanniesX/Anaconda3/pkgs/libtiff-4.0.10-hb898794_2/Library/share/doc/tiff/html/images/warning.gif
+C://Users/NanniesX/Anaconda3/pkgs/matplotlib-3.1.0-py37hc8f65d3_0/Lib/site-packages/matplotlib/mpl-data/images/back.gif
+C://Users/NanniesX/Anaconda3/pkgs/matplotlib-3.1.0-py37hc8f65d3_0/Lib/site-packages/matplotlib/mpl-data/images/back_large.gif
+C://Users/NanniesX/Anaconda3/pkgs/matplotlib-3.1.0-py37hc8f65d3_0/Lib/site-packages/matplotlib/mpl-data/images/filesave.gif
+C://Users/NanniesX/Anaconda3/pkgs/matplotlib-3.1.0-py37hc8f65d3_0/Lib/site-packages/matplotlib/mpl-data/images/filesave_large.gif
+C://Users/NanniesX/Anaconda3/pkgs/matplotlib-3.1.0-py37hc8f65d3_0/Lib/site-packages/matplotlib/mpl-data/images/forward.gif
+C://Users/NanniesX/Anaconda3/pkgs/matplotlib-3.1.0-py37hc8f65d3_0/Lib/site-packages/matplotlib/mpl-data/images/forward_large.gif
+C://Users/NanniesX/Anaconda3/pkgs/matplotlib-3.1.0-py37hc8f65d3_0/Lib/site-packages/matplotlib/mpl-data/images/hand.gif
+C://Users/NanniesX/Anaconda3/pkgs/matplotlib-3.1.0-py37hc8f65d3_0/Lib/site-packages/matplotlib/mpl-data/images/hand_large.gif
+C://Users/NanniesX/Anaconda3/pkgs/matplotlib-3.1.0-py37hc8f65d3_0/Lib/site-packages/matplotlib/mpl-data/images/home.gif
+C://Users/NanniesX/Anaconda3/pkgs/matplotlib-3.1.0-py37hc8f65d3_0/Lib/site-packages/matplotlib/mpl-data/images/home_large.gif
+C://Users/NanniesX/Anaconda3/pkgs/matplotlib-3.1.0-py37hc8f65d3_0/Lib/site-packages/matplotlib/mpl-data/images/move.gif
+C://Users/NanniesX/Anaconda3/pkgs/matplotlib-3.1.0-py37hc8f65d3_0/Lib/site-packages/matplotlib/mpl-data/images/move_large.gif
+C://Users/NanniesX/Anaconda3/pkgs/matplotlib-3.1.0-py37hc8f65d3_0/Lib/site-packages/matplotlib/mpl-data/images/subplots.gif
+C://Users/NanniesX/Anaconda3/pkgs/matplotlib-3.1.0-py37hc8f65d3_0/Lib/site-packages/matplotlib/mpl-data/images/subplots_large.gif
+C://Users/NanniesX/Anaconda3/pkgs/matplotlib-3.1.0-py37hc8f65d3_0/Lib/site-packages/matplotlib/mpl-data/images/zoom_to_rect.gif
+C://Users/NanniesX/Anaconda3/pkgs/matplotlib-3.1.0-py37hc8f65d3_0/Lib/site-packages/matplotlib/mpl-data/images/zoom_to_rect_large.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/Lib/idlelib/Icons/folder.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/Lib/idlelib/Icons/idle_16.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/Lib/idlelib/Icons/idle_32.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/Lib/idlelib/Icons/idle_48.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/Lib/idlelib/Icons/minusnode.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/Lib/idlelib/Icons/openfolder.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/Lib/idlelib/Icons/plusnode.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/Lib/idlelib/Icons/python.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/Lib/idlelib/Icons/tk.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tix8.4.3/bitmaps/act_fold.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tix8.4.3/bitmaps/file.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tix8.4.3/bitmaps/folder.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tix8.4.3/bitmaps/info.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tix8.4.3/bitmaps/minus.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tix8.4.3/bitmaps/minusarm.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tix8.4.3/bitmaps/no_entry.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tix8.4.3/bitmaps/openfold.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tix8.4.3/bitmaps/plus.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tix8.4.3/bitmaps/plusarm.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tix8.4.3/bitmaps/srcfile.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tix8.4.3/bitmaps/textfile.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tix8.4.3/bitmaps/warning.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tix8.4.3/demos/bitmaps/tix.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tk8.6/demos/images/earth.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tk8.6/demos/images/earthris.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tk8.6/demos/images/tcllogo.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tk8.6/images/logo100.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tk8.6/images/logo64.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tk8.6/images/logoLarge.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tk8.6/images/logoMed.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tk8.6/images/pwrdLogo100.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tk8.6/images/pwrdLogo150.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tk8.6/images/pwrdLogo175.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tk8.6/images/pwrdLogo200.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tk8.6/images/pwrdLogo75.gif
+C://Users/NanniesX/Anaconda3/pkgs/python-3.7.3-h8c8aaf0_1/tcl/tk8.6/images/tai-ku.gif
+C://Users/NanniesX/Anaconda3/pkgs/pywin32-223-py37hfa6e2cd_1/Lib/site-packages/win32com/HTML/image/BTN_HomePage.gif
+C://Users/NanniesX/Anaconda3/pkgs/pywin32-223-py37hfa6e2cd_1/Lib/site-packages/win32com/HTML/image/BTN_ManualTop.gif
+C://Users/NanniesX/Anaconda3/pkgs/pywin32-223-py37hfa6e2cd_1/Lib/site-packages/win32com/HTML/image/BTN_NextPage.gif
+C://Users/NanniesX/Anaconda3/pkgs/pywin32-223-py37hfa6e2cd_1/Lib/site-packages/win32com/HTML/image/BTN_PrevPage.gif
+C://Users/NanniesX/Anaconda3/pkgs/pywin32-223-py37hfa6e2cd_1/Lib/site-packages/win32com/HTML/image/blank.gif
+C://Users/NanniesX/Anaconda3/pkgs/pywin32-223-py37hfa6e2cd_1/Lib/site-packages/win32com/HTML/image/pycom_blowing.gif
+C://Users/NanniesX/Anaconda3/pkgs/pywin32-223-py37hfa6e2cd_1/Lib/site-packages/win32com/HTML/image/pythoncom.gif
+C://Users/NanniesX/Anaconda3/pkgs/pywin32-223-py37hfa6e2cd_1/Lib/site-packages/win32com/HTML/image/www_icon.gif
+C://Users/NanniesX/Anaconda3/pkgs/pywin32-223-py37hfa6e2cd_1/Lib/site-packages/win32comext/axscript/Demos/client/ie/pycom_blowing.gif
+C://Users/NanniesX/Anaconda3/pkgs/qt-5.9.7-vc14h73c81de_0/Library/doc/global/template/images/spinner.gif
+C://Users/NanniesX/Anaconda3/pkgs/scikit-image-0.15.0-py37ha925a31_0/Lib/site-packages/skimage/data/no_time_for_that_tiny.gif
+C://Users/NanniesX/Anaconda3/pkgs/sphinx-2.1.2-py_0/site-packages/sphinx/themes/pyramid/static/transparent.gif
+C://Users/NanniesX/Anaconda3/pkgs/sphinxcontrib-websupport-1.1.2-py_0/site-packages/sphinxcontrib/websupport/files/ajax-loader.gif
+C://Users/NanniesX/Anaconda3/pkgs/tk-8.6.8-hfa6e2cd_0/Library/lib/tk8.6/demos/images/earth.gif
+C://Users/NanniesX/Anaconda3/pkgs/tk-8.6.8-hfa6e2cd_0/Library/lib/tk8.6/demos/images/earthris.gif
+C://Users/NanniesX/Anaconda3/pkgs/tk-8.6.8-hfa6e2cd_0/Library/lib/tk8.6/demos/images/tcllogo.gif
+C://Users/NanniesX/Anaconda3/pkgs/tk-8.6.8-hfa6e2cd_0/Library/lib/tk8.6/images/logo100.gif
+C://Users/NanniesX/Anaconda3/pkgs/tk-8.6.8-hfa6e2cd_0/Library/lib/tk8.6/images/logo64.gif
+C://Users/NanniesX/Anaconda3/pkgs/tk-8.6.8-hfa6e2cd_0/Library/lib/tk8.6/images/logoLarge.gif
+C://Users/NanniesX/Anaconda3/pkgs/tk-8.6.8-hfa6e2cd_0/Library/lib/tk8.6/images/logoMed.gif
+C://Users/NanniesX/Anaconda3/pkgs/tk-8.6.8-hfa6e2cd_0/Library/lib/tk8.6/images/pwrdLogo100.gif
+C://Users/NanniesX/Anaconda3/pkgs/tk-8.6.8-hfa6e2cd_0/Library/lib/tk8.6/images/pwrdLogo150.gif
+C://Users/NanniesX/Anaconda3/pkgs/tk-8.6.8-hfa6e2cd_0/Library/lib/tk8.6/images/pwrdLogo175.gif
+C://Users/NanniesX/Anaconda3/pkgs/tk-8.6.8-hfa6e2cd_0/Library/lib/tk8.6/images/pwrdLogo200.gif
+C://Users/NanniesX/Anaconda3/pkgs/tk-8.6.8-hfa6e2cd_0/Library/lib/tk8.6/images/pwrdLogo75.gif
+C://Users/NanniesX/Anaconda3/pkgs/tk-8.6.8-hfa6e2cd_0/Library/lib/tk8.6/images/tai-ku.gif
+C://Users/NanniesX/Anaconda3/tcl/tix8.4.3/bitmaps/act_fold.gif
+C://Users/NanniesX/Anaconda3/tcl/tix8.4.3/bitmaps/file.gif
+C://Users/NanniesX/Anaconda3/tcl/tix8.4.3/bitmaps/folder.gif
+C://Users/NanniesX/Anaconda3/tcl/tix8.4.3/bitmaps/info.gif
+C://Users/NanniesX/Anaconda3/tcl/tix8.4.3/bitmaps/minus.gif
+C://Users/NanniesX/Anaconda3/tcl/tix8.4.3/bitmaps/minusarm.gif
+C://Users/NanniesX/Anaconda3/tcl/tix8.4.3/bitmaps/no_entry.gif
+C://Users/NanniesX/Anaconda3/tcl/tix8.4.3/bitmaps/openfold.gif
+C://Users/NanniesX/Anaconda3/tcl/tix8.4.3/bitmaps/plus.gif
+C://Users/NanniesX/Anaconda3/tcl/tix8.4.3/bitmaps/plusarm.gif
+C://Users/NanniesX/Anaconda3/tcl/tix8.4.3/bitmaps/srcfile.gif
+C://Users/NanniesX/Anaconda3/tcl/tix8.4.3/bitmaps/textfile.gif
+C://Users/NanniesX/Anaconda3/tcl/tix8.4.3/bitmaps/warning.gif
+C://Users/NanniesX/Anaconda3/tcl/tix8.4.3/demos/bitmaps/tix.gif
+C://Users/NanniesX/Anaconda3/tcl/tk8.6/demos/images/earth.gif
+C://Users/NanniesX/Anaconda3/tcl/tk8.6/demos/images/earthris.gif
+C://Users/NanniesX/Anaconda3/tcl/tk8.6/demos/images/tcllogo.gif
+C://Users/NanniesX/Anaconda3/tcl/tk8.6/images/logo100.gif
+C://Users/NanniesX/Anaconda3/tcl/tk8.6/images/logo64.gif
+C://Users/NanniesX/Anaconda3/tcl/tk8.6/images/logoLarge.gif
+C://Users/NanniesX/Anaconda3/tcl/tk8.6/images/logoMed.gif
+C://Users/NanniesX/Anaconda3/tcl/tk8.6/images/pwrdLogo100.gif
+C://Users/NanniesX/Anaconda3/tcl/tk8.6/images/pwrdLogo150.gif
+C://Users/NanniesX/Anaconda3/tcl/tk8.6/images/pwrdLogo175.gif
+C://Users/NanniesX/Anaconda3/tcl/tk8.6/images/pwrdLogo200.gif
+C://Users/NanniesX/Anaconda3/tcl/tk8.6/images/pwrdLogo75.gif
+C://Users/NanniesX/Anaconda3/tcl/tk8.6/images/tai-ku.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/fbgcbajgifmipaanieieccbdnaeliohh/0.0.3_0/imgs/ajax-loader-white.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/fbgcbajgifmipaanieieccbdnaeliohh/0.0.3_0/imgs/ajax-loader.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/ihmigmmflfcbhdpdgbkkeojchjhhphnh/2.1.2.30_0/media/media/shiverMeTimbers.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/ihmigmmflfcbhdpdgbkkeojchjhhphnh/2.1.2.30_0/media/shiverMeTimbers.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/inc/pdf/web/images/loading-icon.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/0-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/1-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/10-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/11-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/12-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/13-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/14-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/15-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/16-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/17-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/18-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/19-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/2-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/20-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/21-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/22-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/23-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/24-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/25-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/26-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/27-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/28-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/29-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/3-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/30-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/31-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/32-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/33-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/34-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/35-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/36-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/37-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/38-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/39-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/4-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/5-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/6-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/7-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/8-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/pattern/DinPattern/9-original.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/kkghjbajgkcialbbimbifdcjilhcgoim/3.5.2.23_0/media/ux/loader.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/mahlpjgkkgomlahfadhjooabiocfpnho/1.2.2_0/img/Jcrop.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/mahlpjgkkgomlahfadhjooabiocfpnho/1.2.2_0/img/default.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/mahlpjgkkgomlahfadhjooabiocfpnho/1.2.2_0/img/grey.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/mgijmajocgfcbeboacabfgobmjgjcoja/4.0.9_0/static/dictionary_logo.gif
+C://Users/NanniesX/AppData/Local/Google/Chrome/User Data/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.5_0/images/flapper.gif
+C://Users/NanniesX/AppData/Local/Microsoft/OneDrive/19.232.1124.0008/AutoPlayOptIn.gif
+C://Users/NanniesX/AppData/Local/Microsoft/OneDrive/19.232.1124.0008/ScreenshotOptIn.gif
+C://Users/NanniesX/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/Cache/47QVEQJS/0C21FD1198E462190795F093995B6358[1].gif
+C://Users/NanniesX/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/Cache/R6EZSZU9/e151e5[1].gif
+C://Users/NanniesX/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/INetCache/3190C0QN/trans[1].gif
+C://Users/NanniesX/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/INetCache/X9ZCLA4R/trans[1].gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/Lib/idlelib/Icons/folder.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/Lib/idlelib/Icons/idle_16.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/Lib/idlelib/Icons/idle_32.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/Lib/idlelib/Icons/idle_48.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/Lib/idlelib/Icons/minusnode.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/Lib/idlelib/Icons/openfolder.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/Lib/idlelib/Icons/plusnode.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/Lib/idlelib/Icons/python.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/Lib/idlelib/Icons/tk.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/Lib/test/imghdrdata/python.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/Lib/test/test_email/data/PyBanner048.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tix8.4.3/bitmaps/act_fold.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tix8.4.3/bitmaps/file.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tix8.4.3/bitmaps/folder.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tix8.4.3/bitmaps/info.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tix8.4.3/bitmaps/minus.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tix8.4.3/bitmaps/minusarm.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tix8.4.3/bitmaps/no_entry.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tix8.4.3/bitmaps/openfold.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tix8.4.3/bitmaps/plus.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tix8.4.3/bitmaps/plusarm.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tix8.4.3/bitmaps/srcfile.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tix8.4.3/bitmaps/textfile.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tix8.4.3/bitmaps/warning.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tix8.4.3/demos/bitmaps/tix.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tk8.6/demos/images/earth.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tk8.6/demos/images/earthris.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tk8.6/demos/images/tcllogo.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tk8.6/images/logo100.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tk8.6/images/logo64.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tk8.6/images/logoLarge.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tk8.6/images/logoMed.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tk8.6/images/pwrdLogo100.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tk8.6/images/pwrdLogo150.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tk8.6/images/pwrdLogo175.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tk8.6/images/pwrdLogo200.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tk8.6/images/pwrdLogo75.gif
+C://Users/NanniesX/AppData/Local/Programs/Python/Python37-32/tcl/tk8.6/images/tai-ku.gif
+C://Users/NanniesX/AppData/Local/Temp/_MEI121762/tk/images/logo100.gif
+C://Users/NanniesX/AppData/Local/Temp/_MEI121762/tk/images/logo64.gif
+C://Users/NanniesX/AppData/Local/Temp/_MEI121762/tk/images/logoLarge.gif
+C://Users/NanniesX/AppData/Local/Temp/_MEI121762/tk/images/logoMed.gif
+C://Users/NanniesX/AppData/Local/Temp/_MEI121762/tk/images/pwrdLogo100.gif
+C://Users/NanniesX/AppData/Local/Temp/_MEI121762/tk/images/pwrdLogo150.gif
+C://Users/NanniesX/AppData/Local/Temp/_MEI121762/tk/images/pwrdLogo175.gif
+C://Users/NanniesX/AppData/Local/Temp/_MEI121762/tk/images/pwrdLogo200.gif
+C://Users/NanniesX/AppData/Local/Temp/_MEI121762/tk/images/pwrdLogo75.gif
+C://Users/NanniesX/AppData/Local/Temp/_MEI121762/tk/images/tai-ku.gif
+C://Users/NanniesX/AppData/Local/Temp/_MEI97722/tk/images/pwrdLogo175.gif
+C://Users/NanniesX/AppData/Local/Temp/_MEI97722/tk/images/pwrdLogo200.gif
+C://Users/NanniesX/AppData/Local/Temp/_MEI97722/tk/images/pwrdLogo75.gif
+C://Users/NanniesX/AppData/Local/Temp/_MEI97722/tk/images/tai-ku.gif
+C://Users/NanniesX/AppData/Roaming/Adobe/Butler/AdobePhotoshop_19/content/34515964-478e-4d36-bd86-89a0e2709e4a.gif
+C://Users/NanniesX/AppData/Roaming/Adobe/Butler/AdobePhotoshop_19/content/c08b757a-663a-4f36-a025-311e97993dff.gif
+C://Users/NanniesX/AppData/Roaming/Mozilla/Firefox/Profiles/0qzrywfl.default/extensions/abb-acer@amazon.com/static/images/loader.gif
+C://Users/NanniesX/AppData/Roaming/SketchUp/SketchUp 2019/SketchUp/Plugins/su_dynamiccomponents/images/attribute-table.gif
+C://Users/NanniesX/AppData/Roaming/SketchUp/SketchUp 2019/SketchUp/Plugins/su_dynamiccomponents/images/bg.gif
+C://Users/NanniesX/AppData/Roaming/SketchUp/SketchUp 2019/SketchUp/Plugins/su_dynamiccomponents/images/buttons.gif
+C://Users/NanniesX/AppData/Roaming/SketchUp/SketchUp 2019/SketchUp/Plugins/su_dynamiccomponents/images/icons.gif
+C://Users/NanniesX/AppData/Roaming/SketchUp/SketchUp 2019/SketchUp/Plugins/su_dynamiccomponents/images/multiselect.gif
+C://Users/NanniesX/AppData/Roaming/SketchUp/SketchUp 2019/SketchUp/Plugins/su_dynamiccomponents/images/report-arrow.gif
+C://Users/NanniesX/AppData/Roaming/SketchUp/SketchUp 2019/SketchUp/Plugins/su_dynamiccomponents/images/rounded.gif
+C://Users/NanniesX/AppData/Roaming/SketchUp/SketchUp 2019/SketchUp/Plugins/su_dynamiccomponents/images/scaletool.gif
+C://Users/NanniesX/AppData/Roaming/SketchUp/SketchUp 2019/SketchUp/Plugins/su_dynamiccomponents/images/tabs.gif
+C://Users/NanniesX/AppData/Roaming/SketchUp/SketchUp 2019/SketchUp/Plugins/su_dynamiccomponents/images/tree-i.gif
+C://Users/NanniesX/AppData/Roaming/SketchUp/SketchUp 2019/SketchUp/Plugins/su_dynamiccomponents/images/tree.gif
+C://Users/NanniesX/AppData/Roaming/SketchUp/SketchUp 2019/SketchUp/Plugins/su_dynamiccomponents/images/units.gif
+C://Users/NanniesX/AppData/Roaming/SketchUp/SketchUp 2019/SketchUp/Plugins/su_trimble_connect/tc_common/client/images/loading.gif
+C://Users/NanniesX/Desktop/All Folder/nncz/venv/tcl/tk8.6/demos/images/earth.gif
+C://Users/NanniesX/Desktop/All Folder/nncz/venv/tcl/tk8.6/demos/images/earthris.gif
+C://Users/NanniesX/Desktop/All Folder/nncz/venv/tcl/tk8.6/demos/images/tcllogo.gif
+C://Users/NanniesX/Desktop/All Folder/nncz/venv/tcl/tk8.6/images/logo100.gif
+C://Users/NanniesX/Desktop/All Folder/nncz/venv/tcl/tk8.6/images/logo64.gif
+C://Users/NanniesX/Desktop/All Folder/nncz/venv/tcl/tk8.6/images/logoLarge.gif
+C://Users/NanniesX/Desktop/All Folder/nncz/venv/tcl/tk8.6/images/logoMed.gif
+C://Users/NanniesX/Desktop/All Folder/nncz/venv/tcl/tk8.6/images/pwrdLogo100.gif
+C://Users/NanniesX/Desktop/All Folder/nncz/venv/tcl/tk8.6/images/pwrdLogo150.gif
+C://Users/NanniesX/Desktop/All Folder/nncz/venv/tcl/tk8.6/images/pwrdLogo175.gif
+C://Users/NanniesX/Desktop/All Folder/nncz/venv/tcl/tk8.6/images/pwrdLogo200.gif
+C://Users/NanniesX/Desktop/All Folder/nncz/venv/tcl/tk8.6/images/pwrdLogo75.gif
+C://Users/NanniesX/Desktop/All Folder/nncz/venv/tcl/tk8.6/images/tai-ku.gif
+C://Users/NanniesX/go/pkg/mod/github.com/sqs/goreturns@v0.0.0-20181028201513-538ac6014518/screencast.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20180824175216-6c1c5e93cdc1/godoc/static/images/minus.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20180824175216-6c1c5e93cdc1/godoc/static/images/plus.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20180824175216-6c1c5e93cdc1/godoc/static/images/treeview-black-line.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20180824175216-6c1c5e93cdc1/godoc/static/images/treeview-black.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20180824175216-6c1c5e93cdc1/godoc/static/images/treeview-default-line.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20180824175216-6c1c5e93cdc1/godoc/static/images/treeview-default.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20180824175216-6c1c5e93cdc1/godoc/static/images/treeview-gray-line.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20180824175216-6c1c5e93cdc1/godoc/static/images/treeview-gray.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20181130195746-895048a75ecf/godoc/static/images/minus.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20181130195746-895048a75ecf/godoc/static/images/plus.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20181130195746-895048a75ecf/godoc/static/images/treeview-black-line.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20181130195746-895048a75ecf/godoc/static/images/treeview-black.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20181130195746-895048a75ecf/godoc/static/images/treeview-default-line.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20181130195746-895048a75ecf/godoc/static/images/treeview-default.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20181130195746-895048a75ecf/godoc/static/images/treeview-gray-line.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20181130195746-895048a75ecf/godoc/static/images/treeview-gray.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20190311212946-11955173bddd/godoc/static/images/minus.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20190311212946-11955173bddd/godoc/static/images/plus.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20190311212946-11955173bddd/godoc/static/images/treeview-black-line.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20190311212946-11955173bddd/godoc/static/images/treeview-black.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20190311212946-11955173bddd/godoc/static/images/treeview-default-line.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20190311212946-11955173bddd/godoc/static/images/treeview-default.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20190311212946-11955173bddd/godoc/static/images/treeview-gray-line.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20190311212946-11955173bddd/godoc/static/images/treeview-gray.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20190408220357-e5b8258f4918/godoc/static/images/minus.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20190408220357-e5b8258f4918/godoc/static/images/plus.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20190408220357-e5b8258f4918/godoc/static/images/treeview-black-line.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20190408220357-e5b8258f4918/godoc/static/images/treeview-black.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20190408220357-e5b8258f4918/godoc/static/images/treeview-default-line.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20190408220357-e5b8258f4918/godoc/static/images/treeview-default.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20190408220357-e5b8258f4918/godoc/static/images/treeview-gray-line.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20190408220357-e5b8258f4918/godoc/static/images/treeview-gray.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20191030062658-86caa796c7ab/godoc/static/images/minus.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20191030062658-86caa796c7ab/godoc/static/images/plus.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20191030062658-86caa796c7ab/godoc/static/images/treeview-black-line.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20191030062658-86caa796c7ab/godoc/static/images/treeview-black.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20191030062658-86caa796c7ab/godoc/static/images/treeview-default-line.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20191030062658-86caa796c7ab/godoc/static/images/treeview-default.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20191030062658-86caa796c7ab/godoc/static/images/treeview-gray-line.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20191030062658-86caa796c7ab/godoc/static/images/treeview-gray.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20191114222411-4191b8cbba09/godoc/static/images/minus.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20191114222411-4191b8cbba09/godoc/static/images/plus.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20191114222411-4191b8cbba09/godoc/static/images/treeview-black-line.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20191114222411-4191b8cbba09/godoc/static/images/treeview-black.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20191114222411-4191b8cbba09/godoc/static/images/treeview-default-line.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20191114222411-4191b8cbba09/godoc/static/images/treeview-default.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20191114222411-4191b8cbba09/godoc/static/images/treeview-gray-line.gif
+C://Users/NanniesX/go/pkg/mod/golang.org/x/tools@v0.0.0-20191114222411-4191b8cbba09/godoc/static/images/treeview-gray.gif
+C://Windows/Microsoft.NET/Framework/v2.0.50727/ASP.NETWebAdminFiles/Images/HelpIcon_solid.gif
+C://Windows/Microsoft.NET/Framework/v2.0.50727/ASP.NETWebAdminFiles/Images/alert_lrg.gif
+C://Windows/Microsoft.NET/Framework/v2.0.50727/ASP.NETWebAdminFiles/Images/aspx_file.gif
+C://Windows/Microsoft.NET/Framework/v2.0.50727/ASP.NETWebAdminFiles/Images/branding_Full2.gif
+C://Windows/Microsoft.NET/Framework/v2.0.50727/ASP.NETWebAdminFiles/Images/deselectedTab_1x1.gif
+C://Windows/Microsoft.NET/Framework/v2.0.50727/ASP.NETWebAdminFiles/Images/folder.gif
+C://Windows/Microsoft.NET/Framework/v2.0.50727/ASP.NETWebAdminFiles/Images/gradient_onBlue.gif
+C://Windows/Microsoft.NET/Framework/v2.0.50727/ASP.NETWebAdminFiles/Images/gradient_onWhite.gif
+C://Windows/Microsoft.NET/Framework/v2.0.50727/ASP.NETWebAdminFiles/Images/headerGRADIENT_Tall.gif
+C://Windows/Microsoft.NET/Framework/v2.0.50727/ASP.NETWebAdminFiles/Images/image1.gif
+C://Windows/Microsoft.NET/Framework/v2.0.50727/ASP.NETWebAdminFiles/Images/image2.gif
+C://Windows/Microsoft.NET/Framework/v2.0.50727/ASP.NETWebAdminFiles/Images/requiredBang.gif
+C://Windows/Microsoft.NET/Framework/v2.0.50727/ASP.NETWebAdminFiles/Images/selectedTab_1x1.gif
+C://Windows/Microsoft.NET/Framework/v2.0.50727/ASP.NETWebAdminFiles/Images/selectedTab_leftCorner.gif
+C://Windows/Microsoft.NET/Framework/v2.0.50727/ASP.NETWebAdminFiles/Images/selectedTab_rightCorner.gif
+C://Windows/Microsoft.NET/Framework/v2.0.50727/ASP.NETWebAdminFiles/Images/unSelectedTab_leftCorner.gif
+C://Windows/Microsoft.NET/Framework/v2.0.50727/ASP.NETWebAdminFiles/Images/unSelectedTab_rightCorner.gif
+C://Windows/Microsoft.NET/Framework/v2.0.50727/ASP.NETWebAdminFiles/Images/yellowCORNER.gif
+C://Windows/Microsoft.NET/Framework/v4.0.30319/ASP.NETWebAdminFiles/Images/HelpIcon_solid.gif
+C://Windows/Microsoft.NET/Framework/v4.0.30319/ASP.NETWebAdminFiles/Images/alert_lrg.gif
+C://Windows/Microsoft.NET/Framework/v4.0.30319/ASP.NETWebAdminFiles/Images/aspx_file.gif
+C://Windows/Microsoft.NET/Framework/v4.0.30319/ASP.NETWebAdminFiles/Images/branding_Full2.gif
+C://Windows/Microsoft.NET/Framework/v4.0.30319/ASP.NETWebAdminFiles/Images/deselectedTab_1x1.gif
+C://Windows/Microsoft.NET/Framework/v4.0.30319/ASP.NETWebAdminFiles/Images/folder.gif
+C://Windows/Microsoft.NET/Framework/v4.0.30319/ASP.NETWebAdminFiles/Images/gradient_onBlue.gif
+C://Windows/Microsoft.NET/Framework/v4.0.30319/ASP.NETWebAdminFiles/Images/gradient_onWhite.gif
+C://Windows/Microsoft.NET/Framework/v4.0.30319/ASP.NETWebAdminFiles/Images/headerGRADIENT_Tall.gif
+C://Windows/Microsoft.NET/Framework/v4.0.30319/ASP.NETWebAdminFiles/Images/image1.gif
+C://Windows/Microsoft.NET/Framework/v4.0.30319/ASP.NETWebAdminFiles/Images/image2.gif
+C://Windows/Microsoft.NET/Framework/v4.0.30319/ASP.NETWebAdminFiles/Images/requiredBang.gif
+C://Windows/Microsoft.NET/Framework/v4.0.30319/ASP.NETWebAdminFiles/Images/selectedTab_1x1.gif
+C://Windows/Microsoft.NET/Framework/v4.0.30319/ASP.NETWebAdminFiles/Images/selectedTab_leftCorner.gif
+C://Windows/Microsoft.NET/Framework/v4.0.30319/ASP.NETWebAdminFiles/Images/selectedTab_rightCorner.gif
+C://Windows/Microsoft.NET/Framework/v4.0.30319/ASP.NETWebAdminFiles/Images/unSelectedTab_leftCorner.gif
+C://Windows/Microsoft.NET/Framework/v4.0.30319/ASP.NETWebAdminFiles/Images/unSelectedTab_rightCorner.gif
+C://Windows/Microsoft.NET/Framework/v4.0.30319/ASP.NETWebAdminFiles/Images/yellowCORNER.gif
+C://Windows/Microsoft.NET/Framework64/v2.0.50727/ASP.NETWebAdminFiles/Images/HelpIcon_solid.gif
+C://Windows/Microsoft.NET/Framework64/v2.0.50727/ASP.NETWebAdminFiles/Images/alert_lrg.gif
+C://Windows/Microsoft.NET/Framework64/v2.0.50727/ASP.NETWebAdminFiles/Images/alert_sml.gif
+C://Windows/Microsoft.NET/Framework64/v2.0.50727/ASP.NETWebAdminFiles/Images/aspx_file.gif
+C://Windows/Microsoft.NET/Framework64/v2.0.50727/ASP.NETWebAdminFiles/Images/branding_Full2.gif
+C://Windows/Microsoft.NET/Framework64/v2.0.50727/ASP.NETWebAdminFiles/Images/deselectedTab_1x1.gif
+C://Windows/Microsoft.NET/Framework64/v2.0.50727/ASP.NETWebAdminFiles/Images/folder.gif
+C://Windows/Microsoft.NET/Framework64/v2.0.50727/ASP.NETWebAdminFiles/Images/gradient_onBlue.gif
+C://Windows/Microsoft.NET/Framework64/v2.0.50727/ASP.NETWebAdminFiles/Images/gradient_onWhite.gif
+C://Windows/Microsoft.NET/Framework64/v2.0.50727/ASP.NETWebAdminFiles/Images/headerGRADIENT_Tall.gif
+C://Windows/Microsoft.NET/Framework64/v2.0.50727/ASP.NETWebAdminFiles/Images/image1.gif
+C://Windows/Microsoft.NET/Framework64/v2.0.50727/ASP.NETWebAdminFiles/Images/image2.gif
+C://Windows/Microsoft.NET/Framework64/v2.0.50727/ASP.NETWebAdminFiles/Images/requiredBang.gif
+C://Windows/Microsoft.NET/Framework64/v2.0.50727/ASP.NETWebAdminFiles/Images/selectedTab_1x1.gif
+C://Windows/Microsoft.NET/Framework64/v2.0.50727/ASP.NETWebAdminFiles/Images/selectedTab_leftCorner.gif
+C://Windows/Microsoft.NET/Framework64/v2.0.50727/ASP.NETWebAdminFiles/Images/selectedTab_rightCorner.gif
+C://Windows/Microsoft.NET/Framework64/v2.0.50727/ASP.NETWebAdminFiles/Images/unSelectedTab_leftCorner.gif
+C://Windows/Microsoft.NET/Framework64/v2.0.50727/ASP.NETWebAdminFiles/Images/unSelectedTab_rightCorner.gif
+C://Windows/Microsoft.NET/Framework64/v2.0.50727/ASP.NETWebAdminFiles/Images/yellowCORNER.gif
+C://Windows/Microsoft.NET/Framework64/v4.0.30319/ASP.NETWebAdminFiles/Images/HelpIcon_solid.gif
+C://Windows/Microsoft.NET/Framework64/v4.0.30319/ASP.NETWebAdminFiles/Images/alert_lrg.gif
+C://Windows/Microsoft.NET/Framework64/v4.0.30319/ASP.NETWebAdminFiles/Images/alert_sml.gif
+C://Windows/Microsoft.NET/Framework64/v4.0.30319/ASP.NETWebAdminFiles/Images/aspx_file.gif
+C://Windows/Microsoft.NET/Framework64/v4.0.30319/ASP.NETWebAdminFiles/Images/branding_Full2.gif
+C://Windows/Microsoft.NET/Framework64/v4.0.30319/ASP.NETWebAdminFiles/Images/deselectedTab_1x1.gif
+C://Windows/Microsoft.NET/Framework64/v4.0.30319/ASP.NETWebAdminFiles/Images/folder.gif
+C://Windows/Microsoft.NET/Framework64/v4.0.30319/ASP.NETWebAdminFiles/Images/gradient_onBlue.gif
+C://Windows/Microsoft.NET/Framework64/v4.0.30319/ASP.NETWebAdminFiles/Images/gradient_onWhite.gif
+C://Windows/Microsoft.NET/Framework64/v4.0.30319/ASP.NETWebAdminFiles/Images/headerGRADIENT_Tall.gif
+C://Windows/Microsoft.NET/Framework64/v4.0.30319/ASP.NETWebAdminFiles/Images/image1.gif
+C://Windows/Microsoft.NET/Framework64/v4.0.30319/ASP.NETWebAdminFiles/Images/image2.gif
+C://Windows/Microsoft.NET/Framework64/v4.0.30319/ASP.NETWebAdminFiles/Images/requiredBang.gif
+C://Windows/Microsoft.NET/Framework64/v4.0.30319/ASP.NETWebAdminFiles/Images/selectedTab_1x1.gif
+C://Windows/Microsoft.NET/Framework64/v4.0.30319/ASP.NETWebAdminFiles/Images/selectedTab_leftCorner.gif
+C://Windows/Microsoft.NET/Framework64/v4.0.30319/ASP.NETWebAdminFiles/Images/selectedTab_rightCorner.gif
+C://Windows/Microsoft.NET/Framework64/v4.0.30319/ASP.NETWebAdminFiles/Images/unSelectedTab_leftCorner.gif
+C://Windows/Microsoft.NET/Framework64/v4.0.30319/ASP.NETWebAdminFiles/Images/unSelectedTab_rightCorner.gif
+C://Windows/Microsoft.NET/Framework64/v4.0.30319/ASP.NETWebAdminFiles/Images/yellowCORNER.gif
+C://Windows/System32/@windows-hello-V4.1.gif
+C://Windows/System32/DesktopKeepOnToastImg.gif
+C://Windows/System32/LaptopPlugInToastImg.gif
+C://Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/Assets/TabSweepExplanation.gif
+C://Windows/SystemApps/Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy/media/CortanaAnimation.gif
+C://Windows/SystemApps/Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy/media/CortanaAnimationJa.gif
+C://Windows/SystemApps/Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy/media/HelloFaceAnimation.gif
+C://Windows/SystemApps/Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy/webapps/inclusiveOobe/media/oobe-bookend-cortanain-outro.gif
+C://Windows/SystemApps/Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy/webapps/inclusiveOobe/media/oobe-bookend-cortanain.gif
+C://Windows/SystemApps/Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy/webapps/inclusiveOobe/media/oobe-bookend-cortanaout.gif
+C://Windows/SystemApps/Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy/webapps/inclusiveOobe/media/oobe-bookend-cortanaspeak.gif
+C://Windows/SystemApps/Microsoft.Windows.Cortana_cw5n1h2txyewy/Assets/hey_cortana.gif
+C://Windows/SystemApps/Microsoft.Windows.Cortana_cw5n1h2txyewy/Assets/others.gif
+C://Windows/SystemApps/Microsoft.Windows.Cortana_cw5n1h2txyewy/Assets/package.gif
+C://Windows/SystemApps/Microsoft.Windows.Cortana_cw5n1h2txyewy/Assets/reminder.gif
+C://Windows/SystemApps/Microsoft.Windows.Cortana_cw5n1h2txyewy/Assets/search.gif
+C://Windows/SystemApps/Microsoft.Windows.Cortana_cw5n1h2txyewy/Assets/speech.gif
+C://Windows/WinSxS/amd64_microsoft-windows-a..ncredentialprovider_31bf3856ad364e35_10.0.18362.267_none_c0bfc723b48a1409/@windows-hello-V4.1.gif
+C://Windows/WinSxS/amd64_microsoft-windows-c..main.assets.cortana_31bf3856ad364e35_10.0.18362.1_none_a8bb0582640b8565/hey_cortana.gif
+C://Windows/WinSxS/amd64_microsoft-windows-c..main.assets.cortana_31bf3856ad364e35_10.0.18362.1_none_a8bb0582640b8565/others.gif
+C://Windows/WinSxS/amd64_microsoft-windows-c..main.assets.cortana_31bf3856ad364e35_10.0.18362.1_none_a8bb0582640b8565/package.gif
+C://Windows/WinSxS/amd64_microsoft-windows-c..main.assets.cortana_31bf3856ad364e35_10.0.18362.1_none_a8bb0582640b8565/reminder.gif
+C://Windows/WinSxS/amd64_microsoft-windows-c..main.assets.cortana_31bf3856ad364e35_10.0.18362.1_none_a8bb0582640b8565/search.gif
+C://Windows/WinSxS/amd64_microsoft-windows-c..main.assets.cortana_31bf3856ad364e35_10.0.18362.1_none_a8bb0582640b8565/speech.gif
+C://Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.387_none_58673ac3df586366/CortanaAnimation.gif
+C://Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.387_none_58673ac3df586366/CortanaAnimationJa.gif
+C://Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.387_none_58673ac3df586366/HelloFaceAnimation.gif
+C://Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.387_none_58673ac3df586366/oobe-bookend-cortanain-outro.gif
+C://Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.387_none_58673ac3df586366/oobe-bookend-cortanain.gif
+C://Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.387_none_58673ac3df586366/oobe-bookend-cortanaout.gif
+C://Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.387_none_58673ac3df586366/oobe-bookend-cortanaspeak.gif
+C://Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.628_none_58a92047df26cc8c/CortanaAnimation.gif
+C://Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.628_none_58a92047df26cc8c/CortanaAnimationJa.gif
+C://Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.628_none_58a92047df26cc8c/HelloFaceAnimation.gif
+C://Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.628_none_58a92047df26cc8c/oobe-bookend-cortanain-outro.gif
+C://Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.628_none_58a92047df26cc8c/oobe-bookend-cortanain.gif
+C://Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.628_none_58a92047df26cc8c/oobe-bookend-cortanaout.gif
+C://Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.628_none_58a92047df26cc8c/oobe-bookend-cortanaspeak.gif
+C://Windows/WinSxS/amd64_microsoft-windows-microsoftedge_31bf3856ad364e35_10.0.18362.592_none_66d6b2d381e47f26/TabSweepExplanation.gif
+C://Windows/WinSxS/amd64_microsoft-windows-microsoftedge_31bf3856ad364e35_10.0.18362.657_none_6706f5db81bf8b3c/TabSweepExplanation.gif
+C://Windows/WinSxS/amd64_microsoft-windows-u..usnotificationuxexe_31bf3856ad364e35_10.0.18362.535_none_c9f61207a3630891/DesktopKeepOnToastImg.gif
+C://Windows/WinSxS/amd64_microsoft-windows-u..usnotificationuxexe_31bf3856ad364e35_10.0.18362.535_none_c9f61207a3630891/LaptopPlugInToastImg.gif
+C://Windows/WinSxS/amd64_microsoft-windows-u..usnotificationuxexe_31bf3856ad364e35_10.0.18362.628_none_ca03e4b7a35835cc/DesktopKeepOnToastImg.gif
+C://Windows/WinSxS/amd64_microsoft-windows-u..usnotificationuxexe_31bf3856ad364e35_10.0.18362.628_none_ca03e4b7a35835cc/LaptopPlugInToastImg.gif
+C://Windows/WinSxS/amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_25aa06829964b3fa/HelpIcon_solid.gif
+C://Windows/WinSxS/amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_25aa06829964b3fa/alert_lrg.gif
+C://Windows/WinSxS/amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_25aa06829964b3fa/alert_sml.gif
+C://Windows/WinSxS/amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_25aa06829964b3fa/aspx_file.gif
+C://Windows/WinSxS/amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_25aa06829964b3fa/branding_Full2.gif
+C://Windows/WinSxS/amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_25aa06829964b3fa/deselectedTab_1x1.gif
+C://Windows/WinSxS/amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_25aa06829964b3fa/folder.gif
+C://Windows/WinSxS/amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_25aa06829964b3fa/gradient_onBlue.gif
+C://Windows/WinSxS/amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_25aa06829964b3fa/gradient_onWhite.gif
+C://Windows/WinSxS/amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_25aa06829964b3fa/headerGRADIENT_Tall.gif
+C://Windows/WinSxS/amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_25aa06829964b3fa/image1.gif
+C://Windows/WinSxS/amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_25aa06829964b3fa/image2.gif
+C://Windows/WinSxS/amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_25aa06829964b3fa/requiredBang.gif
+C://Windows/WinSxS/amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_25aa06829964b3fa/selectedTab_1x1.gif
+C://Windows/WinSxS/amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_25aa06829964b3fa/selectedTab_leftCorner.gif
+C://Windows/WinSxS/amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_25aa06829964b3fa/selectedTab_rightCorner.gif
+C://Windows/WinSxS/amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_25aa06829964b3fa/unSelectedTab_leftCorner.gif
+C://Windows/WinSxS/amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_25aa06829964b3fa/unSelectedTab_rightCorner.gif
+C://Windows/WinSxS/amd64_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_25aa06829964b3fa/yellowCORNER.gif
+C://Windows/WinSxS/amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_31206693bd0eb7bb/HelpIcon_solid.gif
+C://Windows/WinSxS/amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_31206693bd0eb7bb/alert_lrg.gif
+C://Windows/WinSxS/amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_31206693bd0eb7bb/alert_sml.gif
+C://Windows/WinSxS/amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_31206693bd0eb7bb/aspx_file.gif
+C://Windows/WinSxS/amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_31206693bd0eb7bb/branding_Full2.gif
+C://Windows/WinSxS/amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_31206693bd0eb7bb/deselectedTab_1x1.gif
+C://Windows/WinSxS/amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_31206693bd0eb7bb/folder.gif
+C://Windows/WinSxS/amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_31206693bd0eb7bb/gradient_onBlue.gif
+C://Windows/WinSxS/amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_31206693bd0eb7bb/gradient_onWhite.gif
+C://Windows/WinSxS/amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_31206693bd0eb7bb/headerGRADIENT_Tall.gif
+C://Windows/WinSxS/amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_31206693bd0eb7bb/image1.gif
+C://Windows/WinSxS/amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_31206693bd0eb7bb/image2.gif
+C://Windows/WinSxS/amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_31206693bd0eb7bb/requiredBang.gif
+C://Windows/WinSxS/amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_31206693bd0eb7bb/selectedTab_1x1.gif
+C://Windows/WinSxS/amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_31206693bd0eb7bb/selectedTab_leftCorner.gif
+C://Windows/WinSxS/amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_31206693bd0eb7bb/selectedTab_rightCorner.gif
+C://Windows/WinSxS/amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_31206693bd0eb7bb/unSelectedTab_leftCorner.gif
+C://Windows/WinSxS/amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_31206693bd0eb7bb/unSelectedTab_rightCorner.gif
+C://Windows/WinSxS/amd64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_31206693bd0eb7bb/yellowCORNER.gif
+C://Windows/WinSxS/x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_6d573d59ade0dd00/HelpIcon_solid.gif
+C://Windows/WinSxS/x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_6d573d59ade0dd00/alert_lrg.gif
+C://Windows/WinSxS/x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_6d573d59ade0dd00/aspx_file.gif
+C://Windows/WinSxS/x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_6d573d59ade0dd00/branding_Full2.gif
+C://Windows/WinSxS/x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_6d573d59ade0dd00/deselectedTab_1x1.gif
+C://Windows/WinSxS/x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_6d573d59ade0dd00/folder.gif
+C://Windows/WinSxS/x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_6d573d59ade0dd00/gradient_onBlue.gif
+C://Windows/WinSxS/x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_6d573d59ade0dd00/gradient_onWhite.gif
+C://Windows/WinSxS/x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_6d573d59ade0dd00/headerGRADIENT_Tall.gif
+C://Windows/WinSxS/x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_6d573d59ade0dd00/image1.gif
+C://Windows/WinSxS/x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_6d573d59ade0dd00/image2.gif
+C://Windows/WinSxS/x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_6d573d59ade0dd00/requiredBang.gif
+C://Windows/WinSxS/x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_6d573d59ade0dd00/selectedTab_1x1.gif
+C://Windows/WinSxS/x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_6d573d59ade0dd00/selectedTab_leftCorner.gif
+C://Windows/WinSxS/x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_6d573d59ade0dd00/selectedTab_rightCorner.gif
+C://Windows/WinSxS/x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_6d573d59ade0dd00/unSelectedTab_leftCorner.gif
+C://Windows/WinSxS/x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_6d573d59ade0dd00/unSelectedTab_rightCorner.gif
+C://Windows/WinSxS/x86_netfx-aspnet_webadmin_images_b03f5f7f11d50a3a_10.0.18362.1_none_6d573d59ade0dd00/yellowCORNER.gif
+C://Windows/WinSxS/x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_78cd9d6ad18ae0c1/HelpIcon_solid.gif
+C://Windows/WinSxS/x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_78cd9d6ad18ae0c1/alert_lrg.gif
+C://Windows/WinSxS/x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_78cd9d6ad18ae0c1/aspx_file.gif
+C://Windows/WinSxS/x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_78cd9d6ad18ae0c1/branding_Full2.gif
+C://Windows/WinSxS/x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_78cd9d6ad18ae0c1/deselectedTab_1x1.gif
+C://Windows/WinSxS/x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_78cd9d6ad18ae0c1/folder.gif
+C://Windows/WinSxS/x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_78cd9d6ad18ae0c1/gradient_onBlue.gif
+C://Windows/WinSxS/x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_78cd9d6ad18ae0c1/gradient_onWhite.gif
+C://Windows/WinSxS/x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_78cd9d6ad18ae0c1/headerGRADIENT_Tall.gif
+C://Windows/WinSxS/x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_78cd9d6ad18ae0c1/image1.gif
+C://Windows/WinSxS/x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_78cd9d6ad18ae0c1/image2.gif
+C://Windows/WinSxS/x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_78cd9d6ad18ae0c1/requiredBang.gif
+C://Windows/WinSxS/x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_78cd9d6ad18ae0c1/selectedTab_1x1.gif
+C://Windows/WinSxS/x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_78cd9d6ad18ae0c1/selectedTab_leftCorner.gif
+C://Windows/WinSxS/x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_78cd9d6ad18ae0c1/selectedTab_rightCorner.gif
+C://Windows/WinSxS/x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_78cd9d6ad18ae0c1/unSelectedTab_leftCorner.gif
+C://Windows/WinSxS/x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_78cd9d6ad18ae0c1/unSelectedTab_rightCorner.gif
+C://Windows/WinSxS/x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15788.0_none_78cd9d6ad18ae0c1/yellowCORNER.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-a..ncredentialprovider_31bf3856ad364e35_10.0.18362.267_none_c0bfc723b48a1409/f/@windows-hello-v4.1.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-a..ncredentialprovider_31bf3856ad364e35_10.0.18362.267_none_c0bfc723b48a1409/r/@windows-hello-v4.1.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.387_none_58673ac3df586366/f/cortanaanimation.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.387_none_58673ac3df586366/f/cortanaanimationja.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.387_none_58673ac3df586366/f/hellofaceanimation.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.387_none_58673ac3df586366/f/oobe-bookend-cortanain-outro.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.387_none_58673ac3df586366/f/oobe-bookend-cortanain.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.387_none_58673ac3df586366/f/oobe-bookend-cortanaout.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.387_none_58673ac3df586366/f/oobe-bookend-cortanaspeak.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.387_none_58673ac3df586366/r/cortanaanimation.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.387_none_58673ac3df586366/r/cortanaanimationja.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.387_none_58673ac3df586366/r/hellofaceanimation.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.387_none_58673ac3df586366/r/oobe-bookend-cortanain-outro.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.387_none_58673ac3df586366/r/oobe-bookend-cortanain.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.387_none_58673ac3df586366/r/oobe-bookend-cortanaout.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.387_none_58673ac3df586366/r/oobe-bookend-cortanaspeak.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-i..sedsetup-media-base_31bf3856ad364e35_10.0.18362.418_none_ec56b4e3ba803f34/f/alert.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-i..sedsetup-media-base_31bf3856ad364e35_10.0.18362.418_none_ec56b4e3ba803f34/f/warning.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-i..sedsetup-media-base_31bf3856ad364e35_10.0.18362.418_none_ec56b4e3ba803f34/r/alert.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-i..sedsetup-media-base_31bf3856ad364e35_10.0.18362.418_none_ec56b4e3ba803f34/r/warning.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-microsoftedge_31bf3856ad364e35_10.0.18362.592_none_66d6b2d381e47f26/f/tabsweepexplanation.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-microsoftedge_31bf3856ad364e35_10.0.18362.592_none_66d6b2d381e47f26/r/tabsweepexplanation.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-u..usnotificationuxexe_31bf3856ad364e35_10.0.18362.535_none_c9f61207a3630891/f/desktopkeepontoastimg.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-u..usnotificationuxexe_31bf3856ad364e35_10.0.18362.535_none_c9f61207a3630891/f/laptopplugintoastimg.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-u..usnotificationuxexe_31bf3856ad364e35_10.0.18362.535_none_c9f61207a3630891/r/desktopkeepontoastimg.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.592.1.5/amd64_microsoft-windows-u..usnotificationuxexe_31bf3856ad364e35_10.0.18362.535_none_c9f61207a3630891/r/laptopplugintoastimg.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-a..ncredentialprovider_31bf3856ad364e35_10.0.18362.267_none_c0bfc723b48a1409/f/@windows-hello-v4.1.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-a..ncredentialprovider_31bf3856ad364e35_10.0.18362.267_none_c0bfc723b48a1409/r/@windows-hello-v4.1.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.628_none_58a92047df26cc8c/f/cortanaanimation.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.628_none_58a92047df26cc8c/f/cortanaanimationja.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.628_none_58a92047df26cc8c/f/hellofaceanimation.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.628_none_58a92047df26cc8c/f/oobe-bookend-cortanain-outro.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.628_none_58a92047df26cc8c/f/oobe-bookend-cortanain.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.628_none_58a92047df26cc8c/f/oobe-bookend-cortanaout.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.628_none_58a92047df26cc8c/f/oobe-bookend-cortanaspeak.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.628_none_58a92047df26cc8c/r/cortanaanimation.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.628_none_58a92047df26cc8c/r/cortanaanimationja.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.628_none_58a92047df26cc8c/r/hellofaceanimation.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.628_none_58a92047df26cc8c/r/oobe-bookend-cortanain-outro.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.628_none_58a92047df26cc8c/r/oobe-bookend-cortanain.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.628_none_58a92047df26cc8c/r/oobe-bookend-cortanaout.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.18362.628_none_58a92047df26cc8c/r/oobe-bookend-cortanaspeak.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-i..sedsetup-media-base_31bf3856ad364e35_10.0.18362.657_none_ec2a78b5baa18fef/f/alert.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-i..sedsetup-media-base_31bf3856ad364e35_10.0.18362.657_none_ec2a78b5baa18fef/f/warning.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-i..sedsetup-media-base_31bf3856ad364e35_10.0.18362.657_none_ec2a78b5baa18fef/r/alert.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-i..sedsetup-media-base_31bf3856ad364e35_10.0.18362.657_none_ec2a78b5baa18fef/r/warning.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-microsoftedge_31bf3856ad364e35_10.0.18362.657_none_6706f5db81bf8b3c/f/tabsweepexplanation.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-microsoftedge_31bf3856ad364e35_10.0.18362.657_none_6706f5db81bf8b3c/r/tabsweepexplanation.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-u..usnotificationuxexe_31bf3856ad364e35_10.0.18362.628_none_ca03e4b7a35835cc/f/desktopkeepontoastimg.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-u..usnotificationuxexe_31bf3856ad364e35_10.0.18362.628_none_ca03e4b7a35835cc/f/laptopplugintoastimg.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-u..usnotificationuxexe_31bf3856ad364e35_10.0.18362.628_none_ca03e4b7a35835cc/r/desktopkeepontoastimg.gif
+C://Windows/servicing/LCU/Package_for_RollupFix~31bf3856ad364e35~amd64~~18362.657.1.7/amd64_microsoft-windows-u..usnotificationuxexe_31bf3856ad364e35_10.0.18362.628_none_ca03e4b7a35835cc/r/laptopplugintoastimg.gif
